@@ -1,0 +1,1529 @@
+Insc. Nome Turno Total L.Port. Vaga Curso
+30515 Vespertino Aaliyah Emiliano Vilar De Bulhões Barros 9,35 9,10 A0 Química
+34030 Matutino Abraao Pimentel Malta 6,65 6,80 A0 Estradas
+30110 Matutino Adelmo Martins Pereira Santos 7,10 7,10 A0 Desenv. Sistemas
+32134 Matutino Adilson Henrique Araújo Silva 7,00 6,90 A0 Eletrônica
+33718 Matutino Adrianne Maria Lins Da Silva Brasil Rodrigues 6,80 6,70 A0 Desenv. Sistemas
+30830 Matutino Adriel Alves Teixeira 8,15 8,40 L2 Desenv. Sistemas
+30287 Matutino Adrielly Ferreira Mendes 6,70 6,60 L2 Desenv. Sistemas
+35041 Matutino Adrielly Tenório Ferreira 7,25 8,30 A0 Estradas
+30157 Vespertino Adryan Kauã Macena Dos Santos Lima 8,75 8,10 A0 Química
+32554 Matutino Adryelly Da Silva Teixeira 8,75 9,50 L5 Desenv. Sistemas
+29867 Vespertino Ágata Jamile Cabral Costa 8,45 8,70 A0 Edificações
+34224 Vespertino Ailton Luís Da Conceição 7,30 6,80 A0 Mecânica
+31551 Vespertino Aksa Tauany Da Silva Pugliesi 7,60 8,10 A0 Desenv. Sistemas
+31632 Matutino Akym Dos Santos Oliveira 6,40 6,50 L2 Desenv. Sistemas
+33358 Vespertino Alan Pontes Da Silva 8,95 8,60 A0 Edificações
+32458 Vespertino Alan Victor Dos Santos Da Costa 7,40 7,60 L5 Desenv. Sistemas
+30029 Matutino Alan Victor Lougar Dos Santos 6,55 6,70 A0 Desenv. Sistemas
+32107 Matutino Alana Vitória De Freitas 8,75 9,10 A0 Eletrônica
+29959 Matutino Alanda Maria Da Costa Moreira Dos Santos 8,15 8,30 A0 Desenv. Sistemas
+31225 Vespertino Alanis Silveira De Melo 7,95 7,40 A0 Estradas
+32350 Matutino Albert Cayk De Oliveira Santos Silva 8,45 8,80 L5 Mecânica
+29821 Matutino Alberth Davi Alves Silva 7,95 7,60 A0 Eletrônica
+31140 Matutino Alberto Higor Castro Santana Da Silva 7,95 8,10 L2 Eletrotécnica
+33867 Vespertino Alef Douglas Tavares Da Silva 6,90 7,30 A0 Edificações
+33993 Vespertino Alêssa Luna Campos De Assis 8,20 8,60 A0 Edificações
+30696 Matutino Alessandra Fernanda Da Silva 8,75 8,50 L6 Química
+33264 Vespertino Alexander Matheus Lucena Goncalves 8,05 8,40 L2 Desenv. Sistemas
+30172 Matutino Alexandre Domingos Santos Albuquerque 8,80 8,00 A0 Desenv. Sistemas
+32618 Matutino Alexandre Nascimento Da Silva 7,85 8,00 L2 Desenv. Sistemas
+30001 Matutino Alexia Gabrielle Santos Do Nascimento 7,10 7,20 A0 Desenv. Sistemas
+34669 Matutino Alexsandro Lima Da Silva Junior 7,45 7,60 A0 Desenv. Sistemas
+29796 Matutino Alexssanderson Alfredo Dos Santos 6,40 6,30 A0 Desenv. Sistemas
+34723 Vespertino Alexssandro Monteiro Da Silva 8,00 10,00 L2 Estradas
+31027 Matutino Alexya Rayssa Santos De Oliveira 6,40 6,70 A0 Edificações
+32989 Vespertino Alice Alves De Castro 7,80 7,60 A0 Química
+30108 Vespertino Alice Alves Wanderley 7,30 7,90 A0 Edificações
+32911 Matutino Alice Cordeiro Argemiro 6,85 6,60 L1 Química
+29766 Vespertino Alice Dos Santos Gomes 7,65 8,20 A0 Edificações
+32445 Vespertino Alice Grazielle Dos Santos 7,65 7,90 L1 Edificações
+30076 Matutino Alice Kamilly Casado Alves Dos Santos 7,85 8,10 A0 Estradas
+31466 Matutino Alice Maria Lima De Araújo De Costa 8,40 8,80 A0 Estradas
+34982 Matutino Alice Maria Santos Da Silva 7,00 7,00 L2 Edificações
+34589 Matutino Alice Marlene Simplico De Araújo 8,10 8,60 A0 Química
+30222 Matutino Alice Samara Dos Santos Rodrigues 7,85 8,10 A0 Química
+31504 Matutino Alice Vitória Dos Santos Ferreira 7,35 7,90 A0 Edificações
+32353 Vespertino Alice Vitória Prazeres Dos Santos 7,25 7,00 A0 Desenv. Sistemas
+29686 Matutino Alicia De Medeiros Silva 8,65 9,30 A0 Química
+30015 Vespertino Aline Maria Alves Luiz Silva 6,35 6,80 L2 Desenv. Sistemas
+31488 Matutino Alisson Matheus De Souza Oliveira 8,75 8,50 L2 Eletrônica
+31939 Matutino Allan Guilherme De Oliveira Silva 8,60 8,70 A0 Eletrotécnica
+33809 Vespertino Allayane Miranda De Oliveira 6,35 6,10 L2 Edificações
+34330 Matutino Aloizio Paes De Lima Neto 7,55 7,50 A0 Desenv. Sistemas
+31699 Vespertino Álvaro Dos Santos Filho 6,45 6,30 L2 Edificações
+34372 Vespertino Álvaro Gabriel Santos De Oliveira 7,60 6,90 A0 Edificações
+30572 Matutino Álvaro Guilherme Oliveira Leite 6,50 6,60 A0 Estradas
+33254 Matutino Álvaro Márcio De Oliveira Lima 7,65 7,80 A0 Desenv. Sistemas
+31923 Matutino Alycia Da Silva Lima 6,90 7,10 A0 Química
+31586 Matutino Alycia Fernanda Gomes Monteiro 7,70 7,60 L2 Edificações
+30821 Vespertino Amália Rayanne Alves De Melo 8,20 8,60 A0 Edificações
+34166 Matutino Amanda Ellen Nim Araújo Leandro 8,25 8,00 A0 Química
+33093 Matutino Amanda Patricia De Lima Dos Santos 7,65 7,80 A0 Estradas
+31816 Vespertino Amanda Pimentel De Lima 7,40 7,80 A0 Edificações
+34476 Matutino Amanda Thays Da Silva De Brito 7,15 7,10 A0 Estradas
+30692 Matutino Amanda Vitória Santos Oliveira 7,80 7,80 L2 Química
+29940 Vespertino Amon Chalegre Gomes Vanderlei 8,55 8,60 A0 Desenv. Sistemas
+33444 Matutino Ana Alice Terto Da Silva Buarque 7,15 7,10 A0 Química
+32767 Matutino Ana Beatriz Da Costa Bandeira 6,80 6,50 A0 Desenv. Sistemas
+32071 Matutino Ana Beatriz Gueiros Dos Santos 6,95 7,30 A0 Edificações
+31793 Vespertino Ana Beatriz Melo Da Silva 6,20 6,40 A0 Edificações
+31959 Vespertino Ana Beatriz Mota Cantarelli Da Silva 8,95 8,80 A0 Edificações
+34671 Matutino Ana Carolina Silva Almeida Canabarro 7,30 7,50 A0 Estradas
+31219 Matutino Ana Caroline De Oliveira Santos 7,95 7,30 A0 Desenv. Sistemas
+31119 Matutino Ana Carollina Nogueira De Lima 8,30 8,50 A0 Estradas
+32986 Matutino Ana Cecilia Bandeira Dos Santos 8,30 8,50 A0 Edificações
+31602 Matutino Ana Cecilia Dos Santos Lima 7,90 7,80 A0 Desenv. Sistemas
+31205 Vespertino Ana Clara Almeida De Sousa 8,50 9,10 A0 Edificações
+35109 Matutino Ana Clara Conrado Nogueira De Magalhães 7,80 7,90 A0 Eletrônica
+31984 Matutino Ana Clara Dos Santos 7,05 7,00 L2 Desenv. Sistemas
+30451 Vespertino Ana Clara Shinayder Silva De Oliveira 7,40 7,80 L2 Desenv. Sistemas
+32769 Vespertino Ana Clara Vieira Dos Santos 9,65 9,30 L1 Edificações
+34044 Matutino Ana Cristina Lima Dos Santos 6,15 6,00 A0 Desenv. Sistemas
+34887 Vespertino Ana Cristina Oliveira Da Costa Silva 7,25 7,20 L2 Edificações
+31000 Matutino Ana Estephany Vieira Dos Santos 7,80 7,50 L2 Mecânica
+30111 Vespertino Ana Fernanda Dos Santos Lima 7,45 7,10 A0 Edificações
+34546 Matutino Ana Flavia Fernandes Da Silva 7,15 7,40 A0 Química
+33660 Vespertino Ana Gabriela Oliveira De Lima 7,80 7,50 A0 Edificações
+32983 Vespertino Ana Gabriely Oliveira Dos Santos 7,80 8,30 A0 Mecânica
+34513 Vespertino Ana Gilvania Dos Santos 7,75 8,50 L6 Química
+34612 Matutino Ana Julia Lopes Dos Santos 7,00 7,20 L2 Estradas
+31581 Vespertino Ana Júlia Da Silva Marinho Santos 7,10 6,90 A0 Desenv. Sistemas
+32499 Vespertino Ana Júlia De Vasconcelos Barros 7,25 7,20 A0 Edificações
+33962 Matutino Ana Júlia Elias Dos Santos 8,50 8,50 A0 Química
+30773 Matutino Ana Júlia Sampaio Do Nascimento 7,20 7,80 A0 Química
+30810 Vespertino Ana Julya De Oliveira Santos 9,30 9,60 A0 Mecânica
+31486 Matutino Ana Karolina Alves Duarte 7,80 8,50 A0 Edificações
+32393 Matutino Ana Karoliny Ramalho De Melo 7,65 8,50 L1 Química
+32137 Vespertino Ana Keila Vitória Da Silva 7,05 7,20 L2 Desenv. Sistemas
+30043 Vespertino Ana Lídia Januário De Amorim 7,45 7,60 A0 Eletrônica
+31033 Matutino Ana Luísa Alcântara Melo 8,75 8,80 A0 Eletrônica
+30316 Matutino Ana Luisa De Pilar Silva Melo 7,55 8,30 A0 Eletrotécnica
+31686 Matutino Ana Luísa Gonçalves 9,05 9,10 A0 Química
+33769 Matutino Ana Luiza Cardoso Da Silva 7,60 7,60 A0 Desenv. Sistemas
+31286 Matutino Ana Luiza Campos Donascimento 7,60 8,40 A0 Edificações
+30703 Matutino Ana Lya Amorim Barbosa 7,40 8,30 A0 Desenv. Sistemas
+30837 Vespertino Ana Paula Lima De Araújo 7,15 7,00 A0 Química
+32570 Matutino Ana Rebeca Barbosa Dos Santos Silva 6,60 6,20 A0 Desenv. Sistemas
+31673 Matutino Ana Sinara Dos Santos Rosendo 7,05 7,60 L1 Desenv. Sistemas
+32406 Vespertino Ana Victoria Da Silva Santos 7,45 7,80 L2 Mecânica
+32069 Matutino Ana Vitória Da Silva Batista 6,80 7,10 A0 Edificações
+32278 Matutino Analice Da Silva Teixeira 7,30 6,80 A0 Química
+34040 Matutino Anderson Alexsandro Dos Santos Silva 7,80 7,70 A0 Mecânica
+29787 Vespertino Anderson Yury Da Silva Correia 7,80 7,60 A0 Edificações
+29898 Matutino André Alves Carlos De Albuquerque 7,05 7,60 A0 Desenv. Sistemas
+31047 Matutino Andre De Carvalho Uchoa Caldas 7,90 7,70 A0 Estradas
+31295 Matutino André Gomes Moura 8,05 8,10 A0 Desenv. Sistemas
+33009 Vespertino André Weslen Da Silva Lima 7,90 8,00 A0 Desenv. Sistemas
+34122 Matutino Andressa Dos Santos 8,00 8,00 A0 Estradas
+30914 Matutino Andressa Maria Da Silva Lima 7,55 8,10 A0 Desenv. Sistemas
+30784 Matutino Andressa Vitória Arcanjo Rodrigues Dos Sant 7,95 7,80 L2 Química
+30009 Matutino Andrew Gabriel Santos De Sousa 7,25 7,00 L2 Desenv. Sistemas
+30817 Vespertino Andrey Rodrigues Oliveira 6,70 6,80 A0 Edificações
+33337 Matutino Ane Vitoria Nascimento Santos Silva 7,90 8,20 L2 Química
+33462 Matutino Angelo Lucas Cyrilo Saldanha 7,10 7,40 A0 Eletrônica
+30561 Matutino Anielle Kaline Dos Santos Lima 6,85 6,50 A0 Química
+31618 Matutino Anielly Vitória Pereira Duarte 8,60 8,20 L2 Edificações
+34735 Matutino Anita Freire Reis De Amorim 8,25 8,00 A0 Desenv. Sistemas
+32296 Matutino Anna Alice Souza Moura 8,20 8,10 A0 Estradas
+31180 Matutino Anna Clara Dos Santos Oliveira Rocha 7,20 7,10 A0 Química
+32568 Matutino Anna Karla Nascimento Vanderlei Do Rego 8,40 8,10 A0 Desenv. Sistemas
+34297 Vespertino Anna Ruth Pinheiro Dos Santos 6,70 6,70 A0 Edificações
+30024 Vespertino Anne Beatriz Gomes De Albuquerque 7,60 8,00 L2 Edificações
+30853 Vespertino Anne Beatryz Lucena De Jesus 7,00 7,00 A0 Desenv. Sistemas
+31556 Matutino Anny Beatriz De Almeida Costa 7,10 6,70 A0 Edificações
+31116 Vespertino Anny Graziele Mendes Rozendo 8,80 8,80 A0 Edificações
+33613 Matutino Anny Karoline Bonfim Dos Santos 7,20 7,20 A0 Edificações
+31844 Matutino Anthony Bruno Da Silva Lamenha Lins 6,65 6,30 A0 Eletrônica
+31044 Vespertino Anthony Eduardo Soares Oliveira 7,05 7,00 A0 Edificações
+30100 Vespertino Anthony Gabriel Sutareli Dos Santos 8,35 8,60 A0 Química
+34758 Matutino Anthony Gonçalo Dos Santos 7,40 7,50 L2 Mecânica
+30420 Matutino Anthony Missena De Lima 7,70 7,10 A0 Desenv. Sistemas
+31171 Vespertino Anthony Sales Costa 8,35 8,50 A0 Desenv. Sistemas
+33501 Vespertino Antônia Samylla Dos Santos Silva 7,75 8,10 L2 Eletrônica
+29980 Matutino Antonio Carlos Dos Santos Silva 6,45 6,60 A0 Eletrônica
+30196 Vespertino Antonio Emiliano Dos Santos Neto 8,40 8,40 A0 Mecânica
+34205 Matutino Antônio Joaquim Vieira De Melo 8,65 8,10 A0 Estradas
+32153 Matutino Antônio Jorge Rocha Neto 7,40 7,30 A0 Estradas
+32344 Matutino Antônio Marcos Silva Monteiro De Lima 6,65 6,50 A0 Mecânica
+34968 Vespertino Antonio Victor De Andrade Pereira 6,35 6,10 A0 Estradas
+32860 Matutino Antony Guilherme Silva Do Nascimento 8,15 8,30 A0 Estradas
+34111 Matutino Antôny Marcos Rios Oliveira De Moraes 7,00 7,00 L2 Desenv. Sistemas
+31362 Vespertino Antony Vitor Melo Simplício 7,90 8,00 A0 Eletrotécnica
+31795 Vespertino Ariany Gabrielle Candido Santos 7,45 7,30 A0 Edificações
+31483 Vespertino Arielly Franciny Moreira Da Silva 7,45 7,80 L2 Eletrônica
+32665 Matutino Arthur Carvalho Thaumaturgo 7,80 7,70 A0 Desenv. Sistemas
+29993 Matutino Arthur Cavalcante Crispin 7,80 8,10 A0 Desenv. Sistemas
+31568 Matutino Arthur Cavalcante Dade Da Paz 6,85 7,30 A0 Desenv. Sistemas
+32934 Vespertino Arthur Da Silva Mendonça 7,00 7,40 L5 Mecânica
+35013 Matutino Arthur De Amorim Lucena Lima 7,70 7,30 A0 Edificações
+32838 Matutino Arthur Do Nascimento Paulino Rotondaro 8,05 7,50 L2 Eletrotécnica
+32667 Matutino Arthur Farias De Araújo 7,55 7,40 A0 Edificações
+31951 Vespertino Arthur Felipe Clarindo Dos Santos 6,40 6,50 A0 Eletrônica
+32302 Matutino Arthur Felipe Dos Santos De Lacerda 6,60 6,90 A0 Química
+33124 Matutino Arthur Felipe Rodrigues Santos 7,00 7,50 L6 Eletrônica
+31390 Vespertino Arthur Gabriel Vieira Belo Ferro 7,15 7,30 A0 Química
+34074 Matutino Arthur Goncalves De Abreu Valenca 7,35 7,20 A0 Desenv. Sistemas
+31930 Matutino Arthur Guilherme De Oliveira Silva 8,75 8,70 A0 Edificações
+29899 Matutino Arthur Inácio Alves Carlos De Albuquerque 6,45 6,60 A0 Desenv. Sistemas
+34973 Matutino Arthur José Botelho Alves Silva 7,10 6,80 A0 Desenv. Sistemas
+32429 Matutino Arthur Levi Da Silva Santos 7,10 7,00 A0 Desenv. Sistemas
+34052 Matutino Arthur Lopes De Lima Silva 7,25 7,10 L2 Desenv. Sistemas
+32463 Vespertino Arthur Moura Da Silva 6,60 6,90 A0 Desenv. Sistemas
+34100 Matutino Arthur Nunes Do Nascimento 8,70 9,40 L2 Desenv. Sistemas
+30763 Vespertino Arthur Oliveira Damasceno 8,50 8,30 A0 Eletrônica
+32316 Matutino Arthur Paulo Padula 8,30 9,30 A0 Desenv. Sistemas
+30811 Matutino Arthur Valentim De Almeida Rocha 7,40 7,10 L2 Estradas
+33581 Matutino Arthur Victor De Oliveira Da Silva 8,50 8,50 L2 Estradas
+33153 Matutino Arthur Vinicius Da Silva Marques 6,00 6,00 A0 Estradas
+34907 Vespertino Arthur Vinícius De Arroxelas Nascimento 7,50 7,90 A0 Desenv. Sistemas
+31104 Matutino Arthur Vitor Barbosa Delfino 6,30 6,50 A0 Química
+34142 Vespertino Arthur West De Oliveira Ramalho 6,55 6,70 A0 Desenv. Sistemas
+31518 Vespertino Artur De Araujo Gouveia 5,00 5,00 A0 Desenv. Sistemas
+30666 Vespertino Artur Jorge Guimarães Dâmaso 6,75 6,70 A0 Desenv. Sistemas
+29842 Vespertino Artur Machado De Araújo 9,05 9,40 A0 Química
+33073 Matutino Ashley Sabrina Lopes Santos 9,30 9,30 A0 Química
+31611 Vespertino Augusto Kaua Dos Santos 7,85 7,60 A0 Desenv. Sistemas
+29682 Matutino Avelar Amorim Sarmento 7,15 7,00 A0 Edificações
+29728 Matutino Aylla Isadora De Lima Bispo 7,70 7,40 L6 Mecânica
+32560 Matutino Beatriz Andrade Souza Lima 7,90 7,70 A0 Desenv. Sistemas
+31257 Vespertino Beatriz Araujo De Magalhães 7,05 7,00 A0 Eletrotécnica
+32818 Matutino Beatriz Christina Aureliano Moura 8,45 7,90 A0 Estradas
+32705 Matutino Beatriz Gabriely Mendonça Santos 8,55 8,00 A0 Química
+31446 Matutino Beatriz Lima Dos Santos 8,60 8,10 A0 Química
+33562 Matutino Beatriz Maria Da Silva 7,65 7,80 A0 Química
+32341 Matutino Belchon Guilherme Da Silva Ferreira 6,40 6,50 L6 Mecânica
+31738 Vespertino Benjamim Macena Araujo 8,10 7,70 L2 Eletrotécnica
+32039 Matutino Benjamin Lima Santigo 7,65 7,40 A0 Eletrotécnica
+34015 Vespertino Bernardo Carvalho Farias Vilela 7,25 7,30 A0 Desenv. Sistemas
+30453 Matutino Bernardo Ferreira Félix 8,75 8,60 A0 Desenv. Sistemas
+31473 Matutino Bianca Akyane Do Nascimento Monteiro 8,40 8,20 A0 Química
+31476 Vespertino Bianca Dias De Melo 7,20 7,30 A0 Química
+30071 Matutino Bianca Otte Felizardo De Souza 8,55 8,80 A0 Estradas
+32949 Matutino Bianca Sabrina Rocha De Sá 7,45 7,40 A0 Química
+31162 Matutino Bianka Leite Barbosa 7,05 7,00 L2 Edificações
+34750 Matutino Bianka Rívian Barreto Verdino 8,55 8,10 A0 Estradas
+32004 Matutino Blackstone Pedro Alves Vieira 6,35 6,10 A0 Desenv. Sistemas
+32822 Matutino Brenda De Oliveira Bezerra 7,65 8,00 A0 Desenv. Sistemas
+33141 Vespertino Brenda Marcele Oliveira Barreto 8,70 8,10 A0 Desenv. Sistemas
+30475 Matutino Brenda Vitória De Lima Farias 7,05 7,40 A0 Mecânica
+30326 Matutino Breno Gustavo Silva Da Nóbrega 8,15 8,00 L1 Eletrotécnica
+33899 Vespertino Breno Torres Barbosa De Araujo 7,15 7,40 A0 Química
+34446 Matutino Brian Kevin Da Silva Figueredo 7,00 7,20 A0 Eletrônica
+31050 Matutino Britânny Aysha Dos Santos Lima 9,05 8,60 L2 Desenv. Sistemas
+32763 Matutino Bruna Eloiza Venâncio Silva 7,20 7,20 A0 Estradas
+34405 Vespertino Bruna Letícia De Oliveira Sarmento 8,60 8,60 A0 Desenv. Sistemas
+30547 Vespertino Bruna Vitoria Dantas Santos 8,55 9,00 A0 Eletrônica
+32583 Matutino Bruno Aquino Da Silva 8,45 8,70 A0 Desenv. Sistemas
+31571 Matutino Bruno Ferreira Silva 6,35 6,30 A0 Eletrônica
+32160 Matutino Bruno Gabriel Do Nascimento Carvalho 7,75 7,70 L2 Desenv. Sistemas
+31438 Matutino Bruno Luan Santos De Sousa 7,70 7,90 L5 Mecânica
+31335 Vespertino Bruno Vinícius Da Silva Duarte 7,45 8,00 A0 Estradas
+32437 Vespertino Caio Kauan De Oliveira Santos 6,25 6,00 L2 Eletrônica
+29902 Matutino Caio Lucas Pereira Castro 8,20 8,10 A0 Desenv. Sistemas
+33662 Matutino Caio Ribeiro Ballejo Azevedo 8,00 7,40 A0 Desenv. Sistemas
+33857 Vespertino Caio Victor Cavalcante Cerqueira 7,85 7,90 A0 Edificações
+32710 Matutino Caio Vinícius Da Silva Santos 8,70 8,10 A0 Desenv. Sistemas
+31331 Matutino Camila Da Silva Gonçalves 9,30 9,40 L2 Desenv. Sistemas
+31014 Matutino Camila Fernanda Da Silva Candido 6,40 6,80 L1 Eletrotécnica
+31666 Matutino Camila Inácio Dos Santos 7,30 8,00 L6 Desenv. Sistemas
+32823 Vespertino Camila Vilany Lima Da Silva 6,95 7,30 A0 Edificações
+29947 Vespertino Camile Victória Sena Da Conceição 7,90 8,00 L2 Química
+34980 Vespertino Camile Vitória Alves Dos Santos 7,70 7,80 L2 Mecânica
+34460 Matutino Camili Letícia Silva Santos 7,50 7,50 L5 Eletrotécnica
+32913 Vespertino Camilly Louise Farias Batista 6,85 7,10 A0 Edificações
+32366 Vespertino Camilly Sarah Moraes Cavalcante Pontes 7,00 7,00 A0 Desenv. Sistemas
+29698 Matutino Camilly Victoria Anjos Da Silva 8,50 8,90 A0 Estradas
+32793 Matutino Camilly Vitória Alves De Oliveira 8,70 8,10 A0 Química
+30049 Matutino Camilly Vitória Martins Acioli 9,25 9,60 L1 Desenv. Sistemas
+32447 Vespertino Camily Vitoria Cabral Balbino 7,95 7,80 L2 Edificações
+31833 Matutino Camily Vitoria Da Silva 9,15 8,60 L5 Edificações
+34477 Matutino Camylla Victória Correia Do Nascimento 7,75 8,00 A0 Eletrotécnica
+31522 Matutino Carlos Andrey Da Silva Freire 7,00 7,50 A0 Eletrônica
+29807 Matutino Carlos Anyel Tavares De Lima 8,50 8,20 L2 Desenv. Sistemas
+32075 Vespertino Carlos Eduardo Albuquerque De Araújo 6,50 6,50 L1 Química
+33631 Matutino Carlos Eduardo Ferreira Dos Santos 7,95 7,70 A0 Eletrônica
+34848 Matutino Carlos Eduardo Moreira Soares 7,90 7,80 A0 Estradas
+31986 Matutino Carlos Eduardo Pessoa De Melo 6,95 6,60 A0 Edificações
+32325 Matutino Carlos Henrique Barros De Mello 8,05 7,60 A0 Química
+32589 Matutino Carlos Miguel Souza Frederico 7,95 8,20 A0 Desenv. Sistemas
+34080 Vespertino Carlos Otacilio Cerqueira Da Silva 6,70 6,90 L2 Desenv. Sistemas
+32270 Vespertino Carlos Rafael Silva Dos Anjos 7,45 8,00 A0 Química
+29876 Matutino Carlos Samuel Alves Da Silva 7,60 8,10 L1 Química
+33022 Matutino Caroline Waleska Santos Paixão 8,55 8,40 A0 Estradas
+33042 Matutino Carynne Custódio Da Silva Santos 8,20 8,00 A0 Desenv. Sistemas
+31260 Vespertino Catarina Vitória De Lima Lins 8,30 8,30 A0 Eletrônica
+30288 Matutino Cauã De Oliveira Medeiros 7,15 7,70 L2 Eletrotécnica
+31999 Vespertino Cauã Jefferson Muniz Anjo 6,55 6,80 A0 Eletrônica
+33382 Matutino Cauã Marques Paes Da Rocha Vanderlei 7,05 7,00 A0 Desenv. Sistemas
+34808 Matutino Cauã Martins Peixoto Lira 8,95 9,10 A0 Desenv. Sistemas
+33026 Vespertino Cauãnne Jasmyle Da Silva Ferreira 7,65 8,10 L1 Edificações
+33086 Matutino Cauê Vinicius Santos De Oliveira 6,60 6,50 L1 Desenv. Sistemas
+31077 Matutino Cecilia De Lima Rocha 7,65 8,10 A0 Estradas
+32680 Matutino Cecília Sabino Da Silva Nery 6,65 6,90 A0 Química
+30171 Vespertino Celina Louise Barbosa De Lima 7,75 7,80 A0 Eletrônica
+33960 Matutino Celio Luiz Dos Santos Junior 7,90 7,80 A0 Química
+30719 Matutino Celsa Maria Fagundes Gonçalves De Lima 8,70 9,10 A0 Mecânica
+32973 Matutino Charle Luiz Correia Da Costa 8,55 8,70 A0 Eletrotécnica
+33363 Matutino Charles Isaac Silva Tragino 6,85 6,70 L10 Mecânica
+30503 Matutino Charlisson Manoel Lourenço Ferreira 8,05 8,40 A0 Eletrotécnica
+31232 Matutino Chrislan Franthesco Silva Dos Santos 8,25 8,10 L2 Desenv. Sistemas
+31078 Vespertino Christian David Ramos Marques 7,20 6,80 A0 Edificações
+32095 Vespertino Christian Felipe De Moura Silva 7,80 7,50 A0 Desenv. Sistemas
+33376 Matutino Christian Raziel De Oliveira Vieira 8,80 8,60 A0 Eletrotécnica
+34559 Matutino Chrystian Chrysitchew Costa 8,30 8,40 L1 Química
+34625 Matutino Cibely Cecilia Batista Silva 8,45 8,40 L2 Estradas
+31228 Matutino Cinthya Stephanie Lima Dos Santos 6,55 6,70 A0 Estradas
+31570 Matutino Clara Vivian Da Silva Santos 7,70 7,60 L2 Desenv. Sistemas
+35192 Vespertino Claudevan Henrique Rodrigues Dos Santos 7,05 7,50 L1 Desenv. Sistemas
+32093 Matutino Cláudia Marianni De Carvalho 6,90 7,30 A0 Estradas
+30445 Matutino Claudio Alberto Henrique Marques 7,45 7,50 L2 Desenv. Sistemas
+34985 Vespertino Cláudio Lucas Dos Santos 7,70 7,90 L1 Química
+32853 Matutino Cláudio Vitor Silva Ferreira 7,80 7,10 L1 Eletrotécnica
+30074 Matutino Cleane Oliveira Dos Santos 7,80 8,10 A0 Eletrotécnica
+31980 Matutino Cleislane Vitória Martins Alves 6,90 7,50 A0 Eletrônica
+33077 Matutino Clevydson Cauã Lins Da Silva 7,00 6,40 L2 Mecânica
+33580 Matutino Clívia Rayssa Da Silva Aureliano 8,40 8,40 A0 Química
+30046 Matutino Clycie Karinne Soares Da Silva 8,15 7,30 L6 Desenv. Sistemas
+30995 Matutino Daliane Dos Santos Oliveira Santiago 6,70 7,10 L14 Química
+34851 Matutino Daniel Alberto Cavalcante Nascimento De Fa 6,20 6,30 A0 Mecânica
+30723 Matutino Daniel Alipio Da Silva Santos Filho 7,95 7,50 A0 Eletrônica
+30898 Vespertino Daniel Artur Santos Oliveira 8,20 8,10 A0 Edificações
+33942 Matutino Daniel Evangelista Dos Santos 7,90 7,50 L1 Desenv. Sistemas
+30303 Matutino Daniel Filipe Duarte Araújo De Morais 8,40 8,80 A0 Desenv. Sistemas
+34145 Vespertino Daniel Jevisan Cavalcante 7,05 7,00 A0 Mecânica
+33354 Matutino Daniel José Araújo De Santana 8,20 7,30 A0 Desenv. Sistemas
+34404 Matutino Daniel Lima Gomes De Barros 6,85 6,90 A0 Desenv. Sistemas
+32375 Matutino Daniel Paulino Da Silva Neto 6,55 6,50 A0 Eletrotécnica
+34069 Matutino Daniela Maria Da Silva 7,25 7,50 L2 Desenv. Sistemas
+34112 Vespertino Daniela Souza Lima 9,15 9,30 A0 Edificações
+30903 Vespertino Daniele Santos Cabral De Lima 8,55 8,60 A0 Edificações
+33555 Matutino Danilo Cardoso De Melo 7,85 7,60 L1 Eletrotécnica
+35105 Matutino Danilo Oliveira Marques 6,30 6,50 A0 Mecânica
+34569 Vespertino Dannilo Ferreira Dos Santos 7,10 6,60 A0 Mecânica
+34814 Vespertino Darlan Lima Pereira Da Silva 7,70 7,60 L2 Mecânica
+30268 Vespertino Darlleson Lessa Dos Santos 8,35 8,20 L2 Desenv. Sistemas
+30695 Matutino Davi Alves Gomes Da Silva 7,10 7,30 A0 Eletrônica
+34373 Matutino Davi Araujo Da Silva 6,60 6,40 L2 Desenv. Sistemas
+32997 Vespertino Davi Da Silva Barbosa 8,15 8,00 A0 Desenv. Sistemas
+33125 Matutino Davi Da Silva Primo 6,95 7,10 A0 Desenv. Sistemas
+34514 Matutino Davi Do Nascimento Santos 7,15 7,80 A0 Eletrotécnica
+31158 Matutino Davi Dos Santos Feitosa Pinheiro 7,30 7,60 A0 Desenv. Sistemas
+32694 Matutino Davi Gabriel Costa Barros 7,40 6,80 A0 Estradas
+30732 Matutino Davi Honorato Schausse 6,95 6,80 A0 Desenv. Sistemas
+33211 Matutino Davi Lima De Oliveira 9,00 9,30 A0 Desenv. Sistemas
+33739 Matutino Davi Lopes Dias Dos Santos 8,40 8,10 A0 Desenv. Sistemas
+33745 Vespertino Davi Lucas De Oliveira Chagas 6,75 6,80 L2 Edificações
+30474 Matutino Davi Luciano Porfirio De Lima 7,45 7,30 A0 Desenv. Sistemas
+34917 Vespertino Davi Melo Rosendo 8,20 8,40 A0 Desenv. Sistemas
+33008 Vespertino David Luciano Laureth Da Silva 7,30 7,00 L1 Desenv. Sistemas
+34773 Matutino David Santos Oliveira 6,75 6,20 A0 Química
+33905 Matutino Davy Lucas De Lima Santos 8,20 8,00 A0 Mecânica
+33887 Matutino Davysson Kayk De Jesus Silva 7,80 8,50 L2 Desenv. Sistemas
+32124 Matutino Débora Tenório Bulhoes 6,70 6,80 A0 Desenv. Sistemas
+30341 Vespertino Débora Araujo Silva 7,45 8,40 A0 Mecânica
+30473 Matutino Débora Barros Elias 8,95 8,50 A0 Edificações
+34110 Matutino Débora Ruthe Nascimento Moraes 8,75 8,70 A0 Eletrônica
+31690 Matutino Debora Victoria Silva Couto 7,25 7,20 A0 Química
+32418 Matutino Deborah Alana Dos Santos Lins 8,15 8,30 A0 Edificações
+30709 Matutino Deborah Alexandre Izidio 8,05 8,30 L2 Química
+32249 Vespertino Déborah Gabriella Tavares Dos Santos 7,70 8,10 A0 Química
+30061 Matutino Deive Soares De Souza 8,40 8,70 A0 Desenv. Sistemas
+33878 Matutino Demylli Caroline Gaspar De Melo Santos 8,00 8,50 L2 Desenv. Sistemas
+32563 Vespertino Derik Nickson Souza Gomes 7,80 8,10 A0 Desenv. Sistemas
+33704 Vespertino Deyvison Pablo Lourenço Dos Santos 8,15 8,80 A0 Mecânica
+31163 Vespertino Diego Luiz Duarte Dos Santos 6,25 6,10 L6 Edificações
+32256 Matutino Douglas Soares Candido Da Silva 7,85 7,20 L1 Edificações
+29750 Matutino Drika Ramilly Alves Da Silva 7,50 7,70 A0 Eletrotécnica
+33883 Vespertino Eberlly Lenira Dos Santos Machado 6,90 6,80 A0 Edificações
+34203 Matutino Eberth Davi Bulhões Santos 6,90 6,60 A0 Desenv. Sistemas
+32172 Vespertino Edley Danilo Pereira Feitosa Júnior 6,95 7,10 A0 Eletrotécnica
+30800 Matutino Edna Fernanda Dos Santos Moreira 7,55 8,10 L2 Edificações
+34181 Vespertino Edson Johnathan Rios Belém Amorim 7,25 7,50 A0 Edificações
+30248 Matutino Eduarda Rayssa Silva De Lima 9,15 9,10 A0 Eletrônica
+33298 Matutino Eduarda Santos Do Nascimento 7,20 7,10 A0 Química
+32922 Vespertino Eduardo Conrado Miranda Pimentel 7,45 7,80 A0 Eletrônica
+34370 Matutino Eduardo Da Silva Athayde Melo 7,40 7,60 A0 Desenv. Sistemas
+31743 Vespertino Eduardo Fabian Gomes Maia 7,45 7,30 A0 Desenv. Sistemas
+33144 Matutino Eduardo Gabriel Santos Farias 7,25 7,00 A0 Eletrotécnica
+32854 Matutino Eduardo Galdino Da Silva 7,35 7,30 A0 Eletrotécnica
+31317 Vespertino Eduardo José Da Silva 7,80 8,30 A0 Química
+34889 Matutino Eduardo Levi Vieira Da Fonseca 7,55 7,50 A0 Estradas
+31640 Vespertino Eduardo Lucas Clemente Pereira 8,10 8,20 A0 Edificações
+31020 Matutino Eduardo Souza De França 7,45 7,40 A0 Desenv. Sistemas
+34703 Vespertino Eduardo Wesley Da Silva 6,70 6,60 A0 Eletrônica
+31636 Matutino Edvaldo Pontes Da Silva Neto 7,00 7,00 A0 Edificações
+30065 Matutino Elaine Maria Da Silva Cosmo 6,35 6,50 A0 Desenv. Sistemas
+33348 Matutino Elcio Isaque Sa De Oliveira 7,20 6,00 A0 Mecânica
+33680 Matutino Elderson Hiago Silva De Almeida Laurindo 7,00 7,00 A0 Edificações
+31941 Matutino Eli Gabriel Gomes Da Silva Santos 6,10 6,10 A0 Estradas
+30948 Matutino Elicia Silva Oliveira 7,45 7,40 L6 Estradas
+33600 Matutino Elielson Gomes Da Silva 6,95 7,10 A0 Estradas
+35079 Matutino Elis Vitoria Rodrigues Da Silva 6,25 6,50 L2 Química
+30237 Matutino Elisama Zyane Santos Oliveira 7,50 7,50 A0 Química
+30153 Vespertino Elisangela Olegario Da Silva 9,85 9,80 A0 Química
+33100 Vespertino Elisangela Vitoria Ferreira Da Silva 7,35 7,70 L6 Eletrônica
+34321 Matutino Elisson Antônio 6,85 7,10 A0 Mecânica
+33318 Matutino Eliza Maria Gomes Dos Santos 8,55 8,00 L2 Química
+32380 Matutino Elizabeth Patrícia De França Farias 7,35 7,70 A0 Química
+32608 Matutino Elizandra Maria Silva Lisbôa Dos Santos 7,50 7,40 L2 Eletrotécnica
+35036 Matutino Ellen Dayse Da Silva Santos 7,05 7,70 L6 Desenv. Sistemas
+33902 Vespertino Ellen Mariany Oliveira Silva 9,05 9,20 L6 Química
+30777 Matutino Ellen Michellayne Inacio De Lima Lins 7,95 8,00 L2 Eletrônica
+32653 Matutino Ellyre Sophia Da Silva Santos 6,45 6,60 L2 Estradas
+32519 Matutino Ellys Eduardo Esteban Dos Santos 6,15 6,00 A0 Desenv. Sistemas
+31813 Matutino Eloá Beatriz Silva Fernandes 7,85 8,70 A0 Desenv. Sistemas
+31165 Matutino Eloah Costa Ulisses Sampaio 7,25 7,70 A0 Desenv. Sistemas
+35012 Matutino Elson Talles Dos Santos Ferreira 7,35 7,50 L2 Eletrônica
+32156 Matutino Elylya Virgínia Rocha Bezerra Da Silva 6,30 6,60 A0 Estradas
+35133 Vespertino Emanuel Carlos Santos Paz 8,65 8,90 A0 Desenv. Sistemas
+34329 Matutino Emanuel Felipe Rodrigues Monteiro 7,55 7,50 A0 Desenv. Sistemas
+31032 Vespertino Emanuel Felix Monteiro 9,15 9,30 A0 Desenv. Sistemas
+30525 Matutino Emanuelle De Menezes Silva 7,85 8,10 L6 Desenv. Sistemas
+30909 Matutino Emanuely Sofia Hilton Do Nascimento 8,45 8,60 L2 Eletrotécnica
+33448 Matutino Emelly Kamile De Melo Rodrigues 7,95 8,70 A0 Desenv. Sistemas
+32788 Vespertino Emerson Felipe Vasconcelos Santos 8,30 8,50 L6 Desenv. Sistemas
+33087 Matutino Emerson Guilherme Dos Santos Amâncio 7,90 7,90 L2 Edificações
+33692 Matutino Emile Vitória Morais Da Silva 7,05 7,00 A0 Química
+32229 Vespertino Emiliane Dos Santos 6,90 7,50 L2 Estradas
+33946 Matutino Emilly Beatriz Dos Santos Matias 6,65 6,50 A0 Química
+31227 Vespertino Emilly Beatriz Gomes Da Silva 8,45 8,50 A0 Edificações
+30985 Matutino Emilly Karolliny Alves Ferreira 8,60 8,10 L6 Química
+33476 Matutino Emilly Kethely De Barros Da Silva 8,45 8,10 L2 Estradas
+30306 Matutino Emilly Laise Maria Da Silva Soares 8,75 9,00 A0 Edificações
+32917 Matutino Emilly Silva Do Nascimento 6,45 6,70 A0 Desenv. Sistemas
+30652 Matutino Emily Graziele Da Silva Victor 8,90 8,70 A0 Desenv. Sistemas
+30885 Vespertino Emily Karine Dos Santos 7,90 8,30 L2 Eletrônica
+32549 Matutino Emily Pimentel Costa 8,20 8,00 L2 Estradas
+33484 Matutino Emily Raíra Rodrigues Santos 8,20 8,60 A0 Desenv. Sistemas
+30926 Matutino Emmerson Dos Santos Martins 6,90 7,50 A0 Química
+34294 Vespertino Emmylayne Victória Da Silva Tonheiro 8,60 8,70 A0 Edificações
+34156 Vespertino Emy Lee Alencar Lopes 8,70 8,80 A0 Química
+33262 Vespertino Emylle Vitoria Da Silva Nascimento 7,15 7,70 L6 Edificações
+31659 Matutino Endrik Paulo De Lima Santos 7,80 7,50 A0 Eletrônica
+32862 Vespertino Ennya Clara Da Silva Pinto 7,05 7,10 A0 Química
+31421 Matutino Enrique Lopes Leite 7,45 7,80 A0 Estradas
+29966 Matutino Enzo Rafael Oliveira Pontes 7,20 7,30 A0 Química
+29953 Matutino Érica Sofia Santos Silva 8,35 8,30 L2 Química
+32980 Vespertino Erick Barbosa Belo 7,35 7,20 A0 Desenv. Sistemas
+29691 Matutino Erick Batista Da Silva Menezes 7,60 8,00 A0 Química
+33288 Matutino Erick Kauê Machado Queiroz 6,60 6,60 A0 Química
+32974 Matutino Erick Matheus Santos Teixeira 7,45 7,30 A0 Estradas
+30944 Matutino Ericka Patrícia Dos Santos 8,20 8,60 A0 Edificações
+34921 Vespertino Erika Mayara Ferreira Dos Santos 7,95 7,80 L2 Edificações
+34174 Matutino Erika Suellem Da Silva Ferreira 8,35 8,50 A0 Química
+30875 Matutino Érika Thaís Dos Santos Nascimento 8,45 8,80 A0 Química
+33556 Matutino Erika Walleska Feitosa Lins 7,20 7,40 L2 Desenv. Sistemas
+29925 Matutino Erycka Vitória Guilhermino Da Silva 8,80 8,50 A0 Desenv. Sistemas
+31894 Matutino Esdras Gabriel Silva Mendes 8,15 8,50 A0 Desenv. Sistemas
+31318 Vespertino Esdras Izido Matias Ramos De Santana 6,40 6,40 A0 Edificações
+34418 Matutino Esdras Santos Da Silva 9,30 9,30 A0 Eletrotécnica
+30803 Matutino Esley Jonas De Carvalho Lima 7,50 7,40 A0 Química
+31608 Matutino Estefane Pereira Mota 7,80 7,80 A0 Mecânica
+34195 Matutino Estela Regina Lopes Da Silva 7,25 7,50 L2 Química
+34175 Matutino Ester Ramos Mendonça 7,55 7,30 A0 Edificações
+32558 Matutino Ester Xavier Marinho 8,05 7,90 A0 Química
+34062 Matutino Esther Beatriz Poncell Oliveira 8,30 8,10 A0 Desenv. Sistemas
+34079 Matutino Esther Laura Dos Santos Pereira 8,85 9,10 A0 Eletrotécnica
+32466 Matutino Esther Vitória De Lima Torres 7,15 7,10 A0 Desenv. Sistemas
+34124 Matutino Etnã Henderson Pedro De Lima 8,55 8,30 A0 Química
+33845 Matutino Evandro Anael Souza Lopes 7,20 7,30 A0 Eletrônica
+31707 Matutino Evellin Jankelly Da Silva Santos 6,25 6,00 L1 Química
+32359 Matutino Evellin Rayssa Pimentel De Souza 8,35 8,10 A0 Desenv. Sistemas
+32162 Vespertino Evelly Carolina Pereira Da Silva 8,45 8,60 A0 Edificações
+34403 Matutino Evellyn Maria Monteiro Dos Santos 7,50 7,80 A0 Química
+34125 Matutino Evellyn Vitória Albuquerque De Almeida 8,60 8,90 L2 Química
+34099 Matutino Evellyn Vitória Mendes Pituba Lins 6,55 6,00 L2 Química
+30469 Matutino Evellyn Yasmmin Dos Santos 8,15 8,30 A0 Mecânica
+34178 Matutino Evely Kauane Dos Santos Silva 6,55 6,70 A0 Mecânica
+31559 Vespertino Evelyn Alves Dos Santos 8,40 8,30 A0 Química
+31613 Matutino Evelyn Karoliny Marques Ferreira Tenório 7,05 6,80 L1 Eletrônica
+34289 Matutino Evelyn Milena De Souza Santos 7,55 7,80 A0 Desenv. Sistemas
+31490 Matutino Everlly Luizy Da Silva Lins 7,85 8,20 A0 Desenv. Sistemas
+33290 Matutino Everson Kauã Machado Queiroz 6,35 6,50 A0 Mecânica
+30762 Matutino Everton Alves Da Silva 8,25 7,70 L2 Estradas
+30140 Matutino Everton Kauã Vieira Da Silva 6,50 6,30 A0 Estradas
+31898 Matutino Everton Mateus Alves Da Silva 7,45 7,20 L6 Química
+35007 Matutino Everton Weslley De Lima Monteiro 8,20 9,30 A0 Química
+33277 Matutino Ewertom Kelvis Da Silva 6,50 7,00 L2 Desenv. Sistemas
+31674 Matutino Ewerton Danylo Lau Albino 7,70 7,40 A0 Eletrotécnica
+34238 Vespertino Ewerton Joaquim Da Silva Oliveira 8,40 8,00 A0 Eletrônica
+33791 Vespertino Eychela Raquel Da Conceição Silva 7,70 7,80 A0 Desenv. Sistemas
+33672 Matutino Fabiana Santos Rocha Da Silva 7,70 7,30 A0 Desenv. Sistemas
+33429 Matutino Fabio Jose Leite Cavalcante Teixeira 8,80 8,70 A0 Eletrônica
+34915 Matutino Fábio Souza Dos Santos Júnior 7,05 6,30 A0 Eletrônica
+34492 Matutino Fabrício Rodrigo Da Silva Santos 7,55 7,40 L5 Química
+32021 Matutino Felip Sloan Santos Silva 7,65 7,50 L1 Desenv. Sistemas
+30975 Matutino Felipe Augusto Guimarães De Souza 6,80 6,60 A0 Mecânica
+33817 Matutino Felipe Eduardo Da Silva Souza 7,40 7,20 A0 Eletrotécnica
+33802 Matutino Felipe Fausto Candido Dos Santos 8,75 8,80 L2 Eletrônica
+32723 Matutino Felipe Gabriel Da Rocha Silva 8,20 8,10 A0 Edificações
+33865 Matutino Felipe Gabriel Ferreira Lima Dos Santos 8,75 9,30 A0 Eletrotécnica
+32795 Matutino Felipe Gabriel Santos Rodrigues 7,10 6,60 L2 Desenv. Sistemas
+31543 Matutino Felipe Jose Da Silva 8,05 8,80 A0 Desenv. Sistemas
+33743 Matutino Felipe Motta De Meneses 7,90 7,90 A0 Desenv. Sistemas
+32762 Vespertino Felipe Roberto Correia Da Silva 6,15 6,30 A0 Edificações
+32224 Vespertino Felipe Santos De Lima 7,25 7,30 L2 Eletrônica
+31760 Vespertino Felipe Silva Correia 7,25 7,50 A0 Edificações
+32340 Matutino Felipe Torres Marinho Barros 6,90 6,30 A0 Eletrônica
+33557 Matutino Fernanda Daniele Da Silva Raimundo 6,70 6,80 L2 Edificações
+30102 Matutino Fernanda Letícia Vital Da Silva 7,25 7,50 A0 Eletrotécnica
+32555 Matutino Fernanda Rannyelle Ferreira De Farias 6,30 6,40 A0 Estradas
+32640 Matutino Fernando Emídio Belfort Do Rego 8,30 7,80 A0 Estradas
+33143 Matutino Fernando Gabriel De Carvalho Valdez 7,90 7,90 L5 Desenv. Sistemas
+31732 Matutino Filipe Gabriel Lima Dos Santos 6,75 6,90 A0 Química
+32179 Matutino Filipe Rocha Santos 8,20 8,60 A0 Eletrotécnica
+32462 Vespertino Flavio Dos Santos Da Silva 6,30 6,50 L1 Estradas
+35127 Matutino Flora Eduarda Da Paz Miguel 9,15 8,70 L6 Edificações
+30350 Matutino Flora Marya Albuquerque Malta Amaral 7,55 7,60 A0 Desenv. Sistemas
+33673 Matutino Franciele Vitória De Souza 7,65 8,00 L6 Desenv. Sistemas
+29777 Matutino Francielle Lopes Santana 8,70 8,80 L2 Desenv. Sistemas
+30647 Matutino Francisco De Assis Marques Da Silva 7,90 7,60 A0 Edificações
+30994 Matutino Francyne Maria Bispo Da Silva Lima 7,75 8,20 A0 Química
+34149 Matutino Gabriel Arthur Santos Rodrigues 7,55 7,30 A0 Desenv. Sistemas
+34340 Vespertino Gabriel Barbosa Da Silva 7,20 7,30 A0 Desenv. Sistemas
+33131 Matutino Gabriel Carneiro Galdino 8,90 8,80 A0 Eletrotécnica
+30166 Matutino Gabriel De Lima Barbosa 7,30 6,80 A0 Desenv. Sistemas
+30321 Vespertino Gabriel Dos Santos Andrade 8,05 8,10 A0 Eletrônica
+30861 Matutino Gabriel Dos Santos Carvalho 7,00 7,00 L2 Mecânica
+29879 Matutino Gabriel Dos Santos Pinheiro 6,70 6,90 L2 Edificações
+33807 Matutino Gabriel Dos Santos Wingerter 7,35 7,80 L2 Desenv. Sistemas
+32657 Matutino Gabriel Fernandes De Oliveira Campos 8,55 8,50 A0 Estradas
+33373 Matutino Gabriel Ferreira Da Silva 6,75 7,00 A0 Estradas
+32165 Matutino Gabriel Henrique Ursulino Alves 7,80 8,00 A0 Desenv. Sistemas
+34263 Matutino Gabriel Mesquita Tavares Barbosa Da Silva 7,55 7,20 A0 Desenv. Sistemas
+33265 Matutino Gabriel Miranda Melo 6,45 6,10 A0 Mecânica
+31059 Vespertino Gabriel Monteiro Barros 6,50 6,60 A0 Desenv. Sistemas
+32718 Matutino Gabriel Prado Basilio De Oliveira 8,25 7,90 A0 Desenv. Sistemas
+34402 Matutino Gabriel Rodrigo Santos Do Nascimento 7,10 6,90 L2 Eletrotécnica
+33574 Vespertino Gabriel Rodrigues Calixto 8,20 8,60 A0 Desenv. Sistemas
+31768 Vespertino Gabriel Terêncio Correia Amorim 8,80 8,30 A0 Edificações
+32217 Vespertino Gabriela De Araújo Brandão 7,95 7,70 A0 Edificações
+29951 Matutino Gabriela Mendes Teles Da Silva 8,60 8,80 L1 Estradas
+31370 Matutino Gabriele Luiza Rodrigues De Lima 6,00 6,40 L2 Eletrotécnica
+29905 Matutino Gabriele Maria Martins Ribeiro 7,70 7,60 A0 Edificações
+33803 Matutino Gabrielle Siqueira Cavalcanti Pereira 9,05 9,40 A0 Edificações
+33248 Matutino Gabrielly Beatris Ferreira Da Silva 7,25 7,50 L1 Desenv. Sistemas
+34171 Matutino Gabrielly Celestino De Moura 8,10 8,40 A0 Estradas
+30169 Matutino Gabrielly Christiny De Morais Santos 8,55 8,60 A0 Química
+33345 Matutino Gabrielly Dias Rodrigues 7,50 7,50 A0 Química
+35080 Vespertino Gabrielly Figueredo De Araujo Maximo 6,65 6,90 A0 Química
+33570 Matutino Gabrielly Roberta Ventura De Carvalho 9,70 9,60 A0 Química
+32538 Vespertino Gabrielly Santos Melo 8,55 7,90 L2 Química
+31434 Matutino Gabrielly Victória Da Silva 7,40 7,50 L6 Desenv. Sistemas
+32315 Vespertino Gabryel Samerson Guedes Moreira 7,75 7,70 A0 Mecânica
+32597 Matutino Geovanna Araújo Pereira 7,25 7,70 A0 Edificações
+29909 Matutino Geovanna Bento Batista Da Silva 7,75 8,00 L2 Desenv. Sistemas
+29767 Matutino Geovanna Gabrielly Dos Santos Silva 9,10 9,30 L2 Mecânica
+29906 Matutino Geraldo Gomes Sa Silva Neto 8,45 8,70 A0 Eletrotécnica
+31847 Matutino Geraldo Junior Lima Dos Santos 7,10 6,30 A0 Edificações
+34472 Matutino Gerlian Da Costa Cassiano 7,90 8,40 A0 Desenv. Sistemas
+33567 Matutino Gessiane Ellis Da Silva Lopes 6,20 6,30 A0 Desenv. Sistemas
+30587 Vespertino Getulio Ribeiro De Souza Alencar 8,50 8,20 A0 Edificações
+32628 Matutino Gilmar Álvaro De Aquino 6,80 6,80 A0 Eletrônica
+30700 Vespertino Giovani De Oliveira Pimentel 6,95 7,20 L1 Eletrotécnica
+34073 Matutino Giovanna Leandro Lopes De Amorim Santos 8,25 8,60 L2 Eletrotécnica
+30758 Vespertino Giovanni Horacio Dos Santos 8,15 7,50 A0 Edificações
+32761 Matutino Gisele Maria Nicacio Da Silva 8,40 8,60 A0 Eletrônica
+32321 Matutino Gisele Maria Soares Da Silva 6,80 7,30 L2 Desenv. Sistemas
+30212 Matutino Giselly Lima Da Silva 8,15 8,30 A0 Desenv. Sistemas
+33090 Vespertino Giulia Delaías Oliveira De Morais 6,80 7,50 A0 Edificações
+34548 Vespertino Giulia Moura Mota Oliveira 8,45 8,30 A0 Edificações
+33702 Matutino Giuliano De Carvalho Lima 8,75 8,50 L2 Edificações
+29747 Matutino Glórya Karynne Amâncio Gama 8,20 8,30 A0 Química
+31645 Matutino Graziela Rufino Mascarenhas 6,80 6,90 A0 Química
+34753 Matutino Grazyelly Gonçalves Ramos Magalhães 7,55 8,00 A0 Desenv. Sistemas
+31580 Matutino Guilherme Araujo Nobre 7,75 7,50 A0 Química
+33568 Matutino Guilherme Augusto Fausto De França 6,80 6,80 L2 Estradas
+33050 Matutino Guilherme Basilio De Araújo Santos 6,55 6,30 A0 Desenv. Sistemas
+31153 Matutino Guilherme Bernardo Da Silva Silveira 7,00 7,50 A0 Desenv. Sistemas
+29684 Matutino Guilherme Carlos Moura Do Nascimento 7,50 7,90 L2 Desenv. Sistemas
+32308 Matutino Guilherme Clemente De Oliveira 6,70 6,60 A0 Química
+31925 Vespertino Guilherme Davi De Sousa Nascimento 8,25 8,10 A0 Desenv. Sistemas
+34871 Matutino Guilherme Gomes Da Silva 7,45 7,50 L2 Estradas
+30507 Matutino Guilherme Nascimento Araújo 6,90 6,80 A0 Estradas
+34116 Matutino Guilherme Roberto Da Silva Santos 7,60 7,10 L2 Estradas
+31705 Matutino Guilherme Tiago Cavalcante De Almeida 7,70 7,80 A0 Desenv. Sistemas
+32304 Matutino Gustavo Alexander Barbosa De Lima 7,50 7,60 A0 Desenv. Sistemas
+29930 Matutino Gustavo Alves Da Silva 6,80 6,60 A0 Estradas
+32606 Matutino Gustavo Henrique Reis Balbino 8,75 8,70 A0 Desenv. Sistemas
+32358 Matutino Gustavo Henrique Silva Nascimento 7,20 7,10 A0 Química
+30251 Matutino Gustavo Miguel Lima Da Silva 7,65 7,30 A0 Desenv. Sistemas
+31600 Vespertino Gustavo Rodrigues Lima Cruz 7,70 7,60 A0 Eletrônica
+34971 Matutino Gustavo Tenório Firmino Cavalcante 9,35 9,20 L1 Química
+34680 Matutino Guybson William Santos De Moura 7,30 7,70 L2 Desenv. Sistemas
+33137 Vespertino Hana Nayara Santos Costa 7,55 8,60 A0 Eletrônica
+33276 Vespertino Hebert Levy De Oliveira Azevedo Silva 6,75 6,40 A0 Desenv. Sistemas
+34875 Matutino Helena Moreira Dos Santos Melo 6,85 7,40 A0 Estradas
+34883 Matutino Helena Tavares Da Silva 8,85 8,70 A0 Desenv. Sistemas
+31512 Matutino Hélis Mayra Bispo Temóteo 7,80 8,00 A0 Estradas
+33815 Vespertino Heloisa Maria Costa De França 7,80 8,30 A0 Edificações
+30931 Matutino Heloíse Rayane Da Rocha Santos 8,45 8,50 A0 Eletrotécnica
+35158 Matutino Helysson Daniel Ferreira Da Silva 8,35 8,40 A0 Desenv. Sistemas
+31728 Matutino Hemilly Sthefany Hungria Sales 8,95 9,00 A0 Edificações
+32226 Matutino Henrique De Oliveira Melo 8,90 8,30 A0 Desenv. Sistemas
+29994 Matutino Henry Gabriel Oliveira Pontes 7,10 7,60 A0 Eletrônica
+33256 Vespertino Heryc Henrique Lopes Dos Santos 8,60 8,60 L1 Desenv. Sistemas
+30233 Matutino Heshelley Roberta Martins Lessa Costa 7,90 8,70 A0 Eletrônica
+30739 Matutino Hevellyn Karolainne Amorim Da Silva 7,45 7,10 A0 Edificações
+30394 Matutino Hugo Bismarck Da Silva Nascimento 7,30 7,10 A0 Eletrotécnica
+31526 Vespertino Hugo Oliveira De Lima Andrade 7,40 7,70 A0 Eletrônica
+29695 Vespertino Ian Dos Santos Oliveira Silva 8,80 8,90 A0 Desenv. Sistemas
+30238 Vespertino Ian Gabriell Vieira Carvalho 7,80 7,10 A0 Eletrônica
+32833 Matutino Iardhina Maria Santos Ferreira 6,55 6,60 L2 Estradas
+34061 Matutino Iasmim Evelim De Lima Moura 8,05 8,60 A0 Desenv. Sistemas
+32206 Matutino Iasmim Gomes Alves 6,45 6,60 A0 Desenv. Sistemas
+29805 Matutino Iasmin Gabrielle Da Conceição Cupertino 8,80 8,70 L6 Química
+34023 Matutino Icaro Luan De Morais Rodrigues 8,05 8,00 A0 Mecânica
+32515 Matutino Icaro Vieira Silva 6,50 6,80 A0 Mecânica
+31536 Vespertino Idarlan Junio Santos Costa 6,90 7,50 A0 Desenv. Sistemas
+29694 Vespertino Igor Luís Rodrigues De Araújo 7,45 7,10 A0 Edificações
+30093 Vespertino Igor Mateus De Souza Silva 8,35 8,10 A0 Estradas
+32585 Matutino Igor Moura Da Costa 7,35 7,60 A0 Edificações
+31530 Matutino Igor Oliveira Duro 6,55 6,50 A0 Eletrônica
+32537 Matutino Igor Rafael Dos Santos Silva 6,30 6,60 A0 Edificações
+31049 Matutino Igor Said Barbosa Dos Santo 6,35 6,10 A0 Estradas
+30184 Matutino Íkaro Martins Nogueira 8,90 8,70 A0 Eletrônica
+31924 Matutino Ingrid Ellen Gomes De Barros 7,05 7,10 A0 Estradas
+35061 Matutino Ingrid Rubia Cabral De Oliveira 8,70 7,80 L2 Desenv. Sistemas
+32373 Matutino Ingrid Vieira Rodrigues 7,00 7,60 A0 Eletrotécnica
+33227 Matutino Ingriddy Camile Alves Omena 7,70 7,80 A0 Desenv. Sistemas
+30929 Matutino Irvyne Abner Fernandes Lins 7,60 8,00 A0 Desenv. Sistemas
+29773 Matutino Isabel Clara De Carvalho Rocha 8,85 8,60 A0 Edificações
+32046 Matutino Isabele Rodrigues Da Silva 7,85 8,60 L2 Mecânica
+31973 Matutino Isabele Vanessa Da Silva 7,40 7,50 A0 Edificações
+31169 Vespertino Isabeli Fagundes Da Silva 7,80 8,00 A0 Estradas
+34361 Matutino Isac Lucas Pereira Lima Santos 6,25 6,50 A0 Desenv. Sistemas
+34397 Matutino Isadora Aragão Dos Santos 6,50 6,70 A0 Desenv. Sistemas
+31500 Matutino Isadora Ferreira Da Silva 8,35 8,30 A0 Estradas
+32715 Vespertino Isadora Peixoto Tenório 7,85 8,00 L2 Edificações
+34635 Matutino Islla Kaline Alves Dos Santos 7,70 8,00 A0 Edificações
+31864 Matutino Ismael Marcilho Ferreira Silva 7,05 7,30 L6 Eletrônica
+34463 Vespertino Isnaide Anelly Da Silva Nascimento 8,05 8,30 L1 Química
+34379 Matutino Israel Libnis Pinheiro Silva 9,65 9,50 A0 Eletrotécnica
+33390 Matutino Itallo Antonio Santos Vieira 7,55 7,10 L2 Eletrônica
+34360 Matutino Ítalo Bertoldo Araújo 7,95 8,10 A0 Desenv. Sistemas
+32285 Matutino Italo Gabriel Da Silva 7,95 7,70 L6 Química
+32409 Matutino Iury Farias Feitosa 8,40 8,90 A0 Eletrotécnica
+30725 Vespertino Ivaldo Almeida Tavares Junior 7,45 7,10 A0 Desenv. Sistemas
+31364 Vespertino Ivanildo Santos De Farias Alves 7,65 7,40 L2 Edificações
+32505 Vespertino Ivo Angelo Jorge Neto 9,40 9,60 A0 Eletrônica
+29742 Matutino Iza Antonia Carneiro De Souza Lima 8,55 9,00 A0 Química
+31996 Vespertino Izabel Da Conceição Silva 7,40 8,20 L1 Edificações
+31597 Vespertino Izadora Alves Domingos De Souza 6,55 6,80 A0 Química
+31664 Matutino Izadora Manoella De Araújo Leal 8,30 8,30 A0 Estradas
+32607 Matutino J0se Claudio Dos Santos Silva 8,20 7,90 L5 Química
+31542 Matutino Jaaziel Meykson Da Silva Santos 6,65 7,30 L6 Eletrônica
+32006 Matutino Jackellynne Monteiro De Vasconcelos 9,30 9,40 A0 Edificações
+34550 Vespertino Jackson Alexandre Custodio De Oliveira 6,20 6,00 A0 Desenv. Sistemas
+34633 Matutino Jakeline Ferreira Dos Santos 8,25 8,40 A0 Estradas
+30422 Matutino Jamerson Rafael Da Silva Alves 7,15 7,00 A0 Eletrônica
+33601 Matutino Jamile Alves Santos 6,90 7,30 L2 Desenv. Sistemas
+33606 Matutino Jamile Ferreira Da Silva 7,05 7,30 L2 Estradas
+29849 Matutino Jamilly Beatriz Macena Castro 8,30 8,60 A0 Edificações
+33038 Vespertino Jamilly Cassiane Dos Santos 7,20 7,30 A0 Desenv. Sistemas
+31175 Vespertino Jamilly Mayara Da Silva Santos 7,90 8,00 L6 Edificações
+34273 Matutino Janaine Melissa Zacarias Dos Santos 6,70 6,50 A0 Desenv. Sistemas
+32050 Matutino Janiely Eduarda Da Silva Tobias 7,30 7,10 A0 Desenv. Sistemas
+34188 Matutino Jarbas Narciso De Deus Silva 8,15 7,00 A0 Desenv. Sistemas
+32698 Vespertino Jardison Withor Da Silva Santana 7,15 7,00 L2 Mecânica
+31746 Matutino Jayane Drielle Carvalho Da Silva 9,10 9,00 A0 Edificações
+32632 Matutino Jayane Karinne Damião Dos Santos 8,70 8,80 A0 Eletrotécnica
+30864 Matutino Jean Carlos Veríssimo Faustino Filho 7,85 8,10 L5 Mecânica
+32029 Vespertino Jean Henry Nunes Da Silva 8,55 9,10 A0 Eletrônica
+30595 Matutino Jean Paulo Marin Goulart 7,50 7,20 A0 Desenv. Sistemas
+30912 Matutino Jefferson Alves Diniz 6,30 6,60 L2 Estradas
+31070 Matutino Jefferson Daniel Ribeiro Moura 5,90 6,20 L2 Edificações
+32053 Vespertino Jefferson Yuri Ferreira Bernardino 7,70 7,80 A0 Edificações
+32539 Vespertino Jeimeson Ferreira Canuto Bispo 6,05 4,60 A0 Mecânica
+33520 Vespertino Jenesson Jesus Amorim Da Silva 8,15 8,30 L5 Desenv. Sistemas
+35122 Matutino Jenifer Kerollyn Souza Campos 6,70 6,90 A0 Química
+29941 Matutino Jeniffer Karolaine Marques De Souza 8,05 8,60 L5 Química
+30818 Matutino Jennifer Cavalcante Da Silva 8,65 8,50 A0 Química
+32333 Matutino Jennifer Ferreira De Lima 7,40 7,50 A0 Desenv. Sistemas
+29758 Matutino Jennyfer Wyngrid Da Silva Santos 7,30 7,00 L2 Desenv. Sistemas
+29913 Matutino Jessé Nathan Torres 8,35 8,00 A0 Mecânica
+30491 Matutino Jessica Renata Da Silva 8,65 8,30 A0 Química
+29904 Vespertino Jhenefe Jaciara Lima Da Silva 7,35 7,80 L2 Edificações
+34849 Vespertino Jhon Henrique Alves Da Silva 7,40 7,80 A0 Mecânica
+29680 Vespertino Jhonys Gabriel De Oliveira 7,50 7,10 L1 Desenv. Sistemas
+32780 Vespertino Jirlaynne Dhamylle Dos Santos 7,60 8,10 L6 Desenv. Sistemas
+31724 Matutino Joana Da Silva Clemente 8,40 8,30 A0 Desenv. Sistemas
+32332 Matutino Joana Santos De Lima 6,80 6,60 L2 Estradas
+32294 Matutino Joane Lima De Souza 8,35 8,30 A0 Química
+31873 Matutino João Arthur Brandão Beserra 8,30 7,60 A0 Eletrônica
+29770 Vespertino João Arthur Gomes De Morais Assis 8,05 8,10 A0 Eletrônica
+33060 Matutino João Carlos Lima Da Silva 8,00 7,70 A0 Estradas
+30462 Vespertino João Felipe Vieira Bastos 6,90 7,00 L2 Edificações
+29829 Vespertino João Gabriel Da Rocha França Melo 6,60 6,60 A0 Desenv. Sistemas
+34541 Matutino João Gabriel Freitas De Oliveira 8,20 7,90 A0 Desenv. Sistemas
+31092 Matutino João Gabriel Laurindo Dos Santos 9,55 9,50 A0 Química
+30606 Matutino João Gabriel Martiliano Araújo 7,85 8,10 A0 Mecânica
+34189 Matutino João Gabriel Neves Da Costa 8,00 7,80 A0 Eletrônica
+34416 Matutino João Gabriel Novais Lima 8,70 8,50 A0 Mecânica
+29856 Vespertino João Gabriel Pimentel Vitoraci 8,40 8,20 A0 Eletrotécnica
+32726 Matutino João Gabriel Santos Correia 8,05 7,80 A0 Desenv. Sistemas
+31147 Matutino João Guilherme Alves Da Silva Santos 6,15 6,50 A0 Desenv. Sistemas
+34911 Vespertino Joao Guilherme Bezerra Omena Fragoso 7,30 7,30 A0 Desenv. Sistemas
+32027 Vespertino João Guilherme De Souza Rocha 8,30 8,10 A0 Edificações
+29726 Matutino João Henrique Gomes Do Nascimento 8,30 8,60 A0 Eletrotécnica
+34425 Vespertino João Henrique Lopes Amorim 6,80 6,60 L2 Edificações
+33079 Vespertino João Italo Carvalho Mendes 7,15 6,80 A0 Mecânica
+32331 Matutino Joao Kleber Gois Do Nascimento 6,50 6,00 A0 Eletrônica
+33491 Matutino João Lucas De Lima Santos 7,65 7,90 L2 Mecânica
+33030 Matutino João Luís Honorato Dos Santos 9,00 8,70 L2 Edificações
+32999 Matutino João Luiz Da Silva Omena 7,15 6,90 A0 Desenv. Sistemas
+30257 Matutino Joao Magalhaes Da Silva Neto 6,80 6,50 A0 Eletrônica
+33251 Vespertino João Marcos Viana Monteiro 7,15 7,80 L2 Eletrotécnica
+32024 Matutino João Marcus Santos Feitosa 6,80 6,50 A0 Desenv. Sistemas
+32615 Vespertino João Paulo Germano De Lima 7,90 7,80 A0 Desenv. Sistemas
+30256 Matutino João Paulo Salgueiro Guimarães 9,00 8,50 A0 Mecânica
+32438 Vespertino Joao Paulo Santos De Araujo 8,25 8,00 A0 Mecânica
+32289 Matutino João Paulo Simões Dos Santos Almeida 6,30 6,50 L2 Estradas
+34339 Matutino João Pedro Araújo De Alcantara 7,95 8,00 A0 Desenv. Sistemas
+30907 Matutino João Pedro De Carvalho Menezes Lopes 7,25 7,30 A0 Desenv. Sistemas
+31204 Vespertino João Pedro De Oliveira Ataíde Alves 8,20 8,10 L6 Mecânica
+32232 Vespertino João Pedro Dos Santos Da Silva 6,95 7,60 L2 Estradas
+34614 Matutino João Pedro Dos Santos Rocha 6,95 7,20 A0 Estradas
+33871 Vespertino João Pedro Ferreira De Albuquerque 8,15 8,80 A0 Eletrônica
+33425 Matutino João Pedro Giló Venceslau 6,30 6,30 A0 Mecânica
+34637 Matutino João Pedro Pimentel Pino 8,20 8,00 A0 Eletrotécnica
+34952 Matutino João Pedro Rechembach Lüdke 7,75 8,30 A0 Eletrônica
+30193 Matutino João Pedro Suica Mota De Lima 7,90 8,10 A0 Desenv. Sistemas
+32765 Vespertino João Victor Alexandre Alves Santos 7,85 7,60 L2 Eletrotécnica
+32390 Vespertino Joao Victor Cruz Da Silva 7,10 6,90 L2 Desenv. Sistemas
+32208 Matutino João Victor Da Silva Peixoto Carvalho 8,60 8,70 L2 Desenv. Sistemas
+34196 Matutino João Victor Lopes Da Silva 6,95 7,30 A0 Desenv. Sistemas
+31962 Vespertino João Victor Otacilio Santos 7,05 7,30 A0 Eletrônica
+32123 Vespertino João Vinicius Oliveira Veiga 7,20 7,60 A0 Edificações
+31324 Vespertino João Vitor Da Conceição 8,45 8,30 L2 Eletrônica
+34029 Vespertino João Vitor Ferreira De Lima 7,30 7,60 A0 Edificações
+34304 Matutino João Vitor Rodrigues Dos Santos 6,30 6,60 L2 Desenv. Sistemas
+32396 Matutino Joaquim Lorenzo De Oliveira Cavalcante 7,05 7,00 A0 Mecânica
+33777 Vespertino Jobwatson Gomes De Almeida 7,60 7,40 L2 Edificações
+32730 Vespertino Joelma Gomes Da Silva 8,50 8,90 L5 Desenv. Sistemas
+29693 Matutino John Vitor Tavares Da Silva 8,70 8,80 L2 Eletrônica
+31552 Matutino Johnny Guilherme Da Silva 8,45 8,10 A0 Eletrônica
+34075 Matutino Jon Recalde Nascimento 6,80 7,00 A0 Desenv. Sistemas
+32319 Vespertino Jonas Gabriel Freitas Reis Rocha Da Costa 7,15 7,00 A0 Mecânica
+34262 Vespertino Jonas Ismael José Da Silva 6,65 7,20 A0 Mecânica
+31947 Matutino Jônatas Costa Da Silva 8,35 9,30 L5 Mecânica
+31338 Matutino Jonatas Gabriel Sotero Da Silva 8,35 8,50 A0 Estradas
+30485 Matutino Jônatas Levi De Oliveira Vilela 7,80 8,10 A0 Eletrotécnica
+30714 Matutino Jônatas Misael Da Silva Lima 8,35 8,90 L6 Mecânica
+30145 Matutino Jonathan Everson Da Silva Souza 7,75 8,20 A0 Eletrotécnica
+34958 Vespertino Jonathan Gabriel Mendonça Torres 9,05 9,30 A0 Edificações
+35168 Vespertino Jonathas Daniel Dos Santos Lins 7,35 6,90 A0 Mecânica
+31887 Matutino Jorge Gabriel Azevedo Mota 6,90 7,00 A0 Eletrotécnica
+32908 Matutino Josafá Cordeiro Da Silva 7,95 8,00 A0 Edificações
+32378 Matutino José Miguel De Almeida Soares Nascimento 7,75 7,80 A0 Desenv. Sistemas
+30310 Vespertino José Adolfo Santos Cabral 7,90 7,80 A0 Desenv. Sistemas
+30871 Vespertino José Anderson Silva Dos Santos Costa 7,90 7,50 L2 Eletrônica
+31802 Matutino José Benedito Dos Santos Filho 7,60 7,60 L2 Química
+35008 Matutino Jose Bruno Oliveira Jovino Da Silva 8,40 8,00 A0 Eletrônica
+32091 Matutino José Cauã Matias De Araújo 8,15 8,10 A0 Estradas
+34126 Matutino José Cícero Da Costa Netto 7,05 7,70 A0 Estradas
+33416 Matutino José Daniel Amorim Barros 7,90 7,70 A0 Eletrônica
+30618 Matutino José Eduardo Dos Santos Amador 8,15 8,10 L1 Edificações
+32918 Vespertino Jose Erik Da Silva Lira 6,20 6,10 L2 Eletrônica
+34486 Vespertino José Gabriel Cardoso Correia Nunes 6,55 6,60 A0 Desenv. Sistemas
+32037 Matutino Jose Gabriel Peixoto Rosalino 9,60 9,60 L2 Desenv. Sistemas
+31480 Matutino José Gabriel Ribeiro Da Silva 8,40 8,50 A0 Edificações
+35055 Matutino José Geraldo Farias Neto 8,20 8,10 A0 Eletrônica
+31990 Matutino José Guilherme Da Silva Oliveira 6,65 6,80 A0 Eletrônica
+32189 Matutino José Guilherme De Lima Veríssimo 7,00 6,80 A0 Desenv. Sistemas
+35056 Matutino José Guilherme Ferreira Farias 7,90 7,80 A0 Eletrônica
+30855 Vespertino José Igor Do Nascimento Costa 8,20 8,60 A0 Eletrônica
+31413 Vespertino José Jorge Da Silva Neto 7,05 6,90 A0 Estradas
+33658 Vespertino José Juan Vinicius Barbosa Da Silva 6,45 6,70 A0 Desenv. Sistemas
+29981 Vespertino José Juarez Alberto Do Nascimento Vieira 7,65 8,00 A0 Mecânica
+34991 Vespertino Jose Leandro Dos Santos Junior 6,85 6,60 A0 Estradas
+32947 Vespertino José Marcelo Dá Silva 7,65 7,30 L2 Eletrônica
+31513 Matutino José Otávio Da Silva Santos 8,00 7,50 L6 Desenv. Sistemas
+33027 Matutino Jose Paulo Neto Filho 6,55 7,10 A0 Química
+32912 Matutino Jose Thiago Chagas Bezerra 7,45 7,80 A0 Química
+32719 Vespertino Jose Vinicius Teixeira Da Silva 7,70 7,30 L2 Desenv. Sistemas
+31794 Matutino José William Da Silva 6,95 7,30 A0 Eletrônica
+30728 Vespertino Josefa Hevelly Vieira Cipriano 9,05 9,50 A0 Desenv. Sistemas
+31385 Matutino Josias Jhon Santos De Lima 7,85 8,10 L1 Desenv. Sistemas
+30496 Matutino Joyce Emanuelle Dos Santos 9,50 9,50 A0 Edificações
+30101 Matutino Joycellenny Monik Da Silva Mendonça 8,30 8,70 L2 Química
+29865 Matutino Juan Fernandes Silva De Oliveira 7,25 7,00 A0 Estradas
+32595 Matutino Juan Matheus Da Silva 7,55 7,30 A0 Química
+33573 Matutino Jucielly Da Silva Dos Santos 8,05 8,10 L2 Desenv. Sistemas
+34332 Matutino Judite Maria Dos Santos Cavalcante 7,30 7,30 L1 Desenv. Sistemas
+34685 Matutino Julha Gabrielly Lins Da Silva. 7,65 7,70 A0 Desenv. Sistemas
+30557 Matutino Julia Beatriz Nascimento Dos Santos 8,05 8,60 A0 Desenv. Sistemas
+30432 Matutino Júlia Clara Cristo Dos Santos 7,35 7,10 A0 Química
+29762 Vespertino Júlia Da Silva Araujo 8,15 8,30 A0 Desenv. Sistemas
+34274 Vespertino Júlia Da Silva Duarte 8,70 8,60 A0 Estradas
+32552 Matutino Julia Eliza Messias De Oliveira 8,55 8,50 A0 Desenv. Sistemas
+31534 Vespertino Julia Emiliano Dos Santos 6,85 6,80 A0 Eletrônica
+32707 Matutino Julia Emily De Castro Silva 9,70 9,80 L2 Química
+29816 Matutino Júlia Emily De Souza Santos 8,80 9,50 A0 Química
+30123 Matutino Júlia Grazielly De Aquino Monteiro 7,40 7,00 A0 Desenv. Sistemas
+32684 Matutino Júlia Hillary Marques Silva 7,65 7,50 A0 Estradas
+32550 Matutino Julia Lima Campos De Oliveira 8,15 8,00 A0 Estradas
+32416 Matutino Júlia Maia Mendonça 7,80 7,60 A0 Química
+29881 Vespertino Júlia Santos De Lima Silva 8,40 8,30 A0 Química
+32420 Matutino Júlia Santos Oliveira De Almeida 7,80 8,10 A0 Edificações
+33901 Matutino Júlia Vitória Nascimento Silva 7,95 8,00 A0 Desenv. Sistemas
+29997 Matutino Juliana Da Silva Bonaldo 7,80 7,80 A0 Química
+29800 Vespertino Juliana Eloise Freire De Lima 8,10 8,10 A0 Edificações
+31642 Matutino Juliana Fernandes De Souza 9,45 9,30 L2 Desenv. Sistemas
+30352 Vespertino Juliana Santana Da Silva 7,10 7,40 L5 Química
+33731 Matutino Juliana Vitória Da Silva 7,15 7,00 A0 Desenv. Sistemas
+33303 Matutino Juliane Maria Ribeiro Araújo 8,35 8,50 A0 Química
+29714 Matutino Julie Adriane Dos Santos Quintela 9,65 10,00 A0 Química
+30705 Matutino Júlio César Araújo Barros 8,55 8,40 A0 Desenv. Sistemas
+33111 Vespertino Júlio César De Araújo Tavares 8,40 8,10 A0 Edificações
+34920 Vespertino Júlio César Santos Deodato 7,30 7,30 L1 Eletrotécnica
+31239 Matutino Jullio Augusto Morais Cezar Xavier 7,30 7,00 A0 Desenv. Sistemas
+31560 Matutino Jully Monick Ferreira Melo 9,30 9,10 A0 Edificações
+31700 Matutino Julyellen Beatriz Silva De Medeiros 7,50 8,00 A0 Química
+30075 Vespertino Julyo Ancleson Pereira Dos Santos 7,95 8,00 L5 Química
+33486 Matutino Kailany Ágatha Alves Dos Santos 7,30 7,30 A0 Química
+33443 Vespertino Kaio Eduardo Soares Passos 6,00 6,00 A0 Desenv. Sistemas
+35113 Vespertino Kaio Vinícius Teixeira Da Silva 7,70 8,00 A0 Eletrônica
+30290 Vespertino Kaiodeh Oliveira Da Silva 6,25 6,50 A0 Química
+33286 Matutino Kaique Paiva 8,15 8,30 L2 Desenv. Sistemas
+30504 Vespertino Kalyne Gomes Da Silva 9,00 9,00 A0 Edificações
+30708 Matutino Kamylle Victoria Moura Aciole 7,55 7,50 A0 Estradas
+30194 Vespertino Kamylle Vitória Lins Fonseca 9,30 9,20 A0 Química
+30879 Vespertino Karina Idalino Da Silva Costa 7,45 7,80 L2 Eletrônica
+34301 Vespertino Karine Dos Santos Da Silva 6,45 6,60 L6 Estradas
+30332 Matutino Karine Vitória Miranda Dos Santos 6,85 6,90 A0 Química
+33267 Matutino Karolliny Vitória Pereira De Oliveira 8,85 9,70 A0 Desenv. Sistemas
+32070 Vespertino Karyne Cristina Da Silva Alves 8,60 9,10 A0 Eletrônica
+32957 Matutino Katarina Marques Guimarães 8,30 8,00 A0 Química
+33920 Matutino Katarina Rose Omena Dos Santos 6,80 6,20 L2 Desenv. Sistemas
+30629 Matutino Katiane Régia Celestino Dos Santos 6,60 6,60 L6 Eletrônica
+30740 Matutino Kauã De Melo Beltrão 9,05 9,00 A0 Desenv. Sistemas
+33515 Matutino Kauã Feitosa Do Nascimento 7,65 8,30 L6 Desenv. Sistemas
+31054 Matutino Kaua Fernando Paz Rocha 7,25 7,50 A0 Eletrotécnica
+32371 Matutino Kauã Gabriel Da Silva Muniz 6,15 6,30 L2 Eletrotécnica
+30530 Matutino Kauã Gabriel De Siqueira Santos 7,25 7,50 L2 Desenv. Sistemas
+32829 Vespertino Kauã Lima Da Rocha 8,40 8,10 A0 Desenv. Sistemas
+30033 Vespertino Kauã Lucas Dos Santos 6,80 6,80 L6 Desenv. Sistemas
+34072 Matutino Kauã Santos Silva 7,90 8,50 L2 Eletrônica
+34131 Vespertino Kauã Victor Calheiros Santos 7,95 8,80 A0 Estradas
+31779 Vespertino Kauã Wesley Dos Santos 7,15 7,50 L2 Eletrotécnica
+31745 Vespertino Kauan Dawyson Oliveira Amaral 7,20 7,40 A0 Estradas
+31818 Matutino Kauanny Letícia Uchoa Borges Gonçalves De 8,10 7,90 A0 Química
+31369 Matutino Kauany Omena Da Conceição 9,25 9,40 A0 Desenv. Sistemas
+31943 Vespertino Kauany Rayane Braty Paulino De Andrade 6,70 6,80 L2 Eletrotécnica
+31048 Matutino Kaue Almeida Da Silva 8,65 8,70 A0 Edificações
+32578 Matutino Kauê César De Lima 8,20 7,70 A0 Química
+30012 Matutino Kaue Cesar Soares Da Silva 6,55 6,80 A0 Estradas
+32890 Vespertino Kaue De Jesus Santana 7,10 7,10 L2 Edificações
+32899 Matutino Kauê Vinícius Seabra Dos Santos 9,00 9,00 A0 Desenv. Sistemas
+30159 Vespertino Kawany Demésio Lopes 7,55 8,00 L5 Desenv. Sistemas
+30355 Vespertino Kayky André Gonçalves Raposo 8,45 8,90 A0 Edificações
+35051 Vespertino Kayky Luan Costa Souza 7,40 7,30 L1 Desenv. Sistemas
+34031 Vespertino Kayllan Santos De Souza 8,35 9,10 A0 Estradas
+30381 Matutino Kayllander Gabriel Oliveira Lima 7,55 7,30 A0 Desenv. Sistemas
+32337 Vespertino Kayllane Rebecka Rodrigues De Souza Telles 7,45 7,80 L6 Química
+30390 Vespertino Kedma Nascimento Herculano 7,55 8,20 A0 Desenv. Sistemas
+33945 Matutino Keliane Da Silva Cavalcante 6,40 6,50 L2 Desenv. Sistemas
+34867 Matutino Kelly Gomes Dos Santos 6,30 6,60 L2 Estradas
+32620 Matutino Kemilly Vithória Farias Dos Santos 8,30 8,10 A0 Estradas
+31172 Matutino Kennedy Anderson De Almeida Silva Santos 8,50 8,10 A0 Eletrônica
+30731 Vespertino Kesia Gabrielle Do Nascimento 7,65 7,80 A0 Edificações
+32464 Matutino Ketelly Andressa De Brito Miranda 8,45 7,70 A0 Eletrotécnica
+34287 Vespertino Kethyleen Vitória Da Silva Santos 6,50 6,30 L2 Química
+33736 Matutino Ketylly Jamily Cerqueira Do Nascimento 6,55 6,80 A0 Estradas
+30204 Vespertino Keveson Adrian Luis Silva Menezes 6,25 6,50 L2 Edificações
+31744 Matutino Kevin Anderson Ferreira Da Silva 8,00 7,80 A0 Desenv. Sistemas
+33998 Matutino Kevin Antonio Silva 7,55 7,50 A0 Eletrônica
+32327 Matutino Kevin Do Nascimento Alves 8,05 8,00 A0 Edificações
+30761 Matutino Kevin Lucas Simplício Dos Santos 7,80 8,30 A0 Desenv. Sistemas
+32273 Matutino Keyla Shayani Valeriano De Souza 6,30 6,30 L6 Estradas
+30220 Matutino Keylane Mortimer Centurión 7,35 7,60 A0 Desenv. Sistemas
+34308 Vespertino Kezia Jaqueline Souza Da Silva 7,85 7,60 L2 Desenv. Sistemas
+31629 Matutino Kimberly Thaissa Da Conceição Monteiro Da 7,55 7,30 L2 Química
+31329 Vespertino Kissia Fernanda Januário Lima 7,10 7,00 A0 Edificações
+34747 Matutino Kivya Carolayne Pereira Santos 8,10 8,60 A0 Química
+33479 Vespertino Klevio Ryan Dos Santos De Oliveira 6,90 6,50 A0 Edificações
+32041 Matutino Kluyvert Albert Da Silva Gomes 6,85 6,60 A0 Desenv. Sistemas
+31774 Matutino Kristhian Andrey Custodio Da Silva 7,10 6,90 A0 Eletrotécnica
+32915 Vespertino Laelson Da Conceição Do Carmo 7,00 7,30 L5 Mecânica
+31646 Vespertino Lainy Grazielly Fernandes Vasconcelos 8,80 9,30 A0 Edificações
+30987 Vespertino Lais Camila De Souza Cabral 8,35 8,10 A0 Mecânica
+30314 Matutino Lara Emylli Dos Santos Silva 6,70 7,30 A0 Estradas
+33105 Matutino Lara Ferreira Do Nascimento 7,20 7,10 A0 Estradas
+31693 Matutino Lara Melyssa Barbosa Leite 8,40 8,00 A0 Desenv. Sistemas
+31891 Matutino Lara Nayhane Marques Da Silva 7,85 7,90 A0 Edificações
+30500 Vespertino Lara Rayssa Da Silva Teles 8,40 8,00 A0 Química
+30150 Matutino Larah Maria Rodrigues Miranda 6,80 7,60 A0 Química
+31452 Matutino Larissa Costa Brandão 7,15 7,30 A0 Estradas
+33225 Vespertino Larissa Dos Santos Silva 8,70 8,70 L2 Edificações
+30064 Matutino Larissa Gabrielly Souza Lima 7,50 7,50 L2 Estradas
+30334 Vespertino Larissa Marques Messias Dos Santos 8,35 9,30 A0 Mecânica
+34068 Matutino Larissa Nayara Da Silva Peixoto 8,60 8,40 L2 Química
+33257 Matutino Larissy Andreza Da Silva Ribeiro 8,95 9,10 A0 Desenv. Sistemas
+34084 Matutino Laryssa Hortência Silva Dos Santos 6,30 6,20 A0 Desenv. Sistemas
+34802 Matutino Laryssa Nogueira Dos Santos 7,75 7,20 A0 Estradas
+33753 Vespertino Laryssa Pacheco Santos 8,40 8,30 A0 Desenv. Sistemas
+31242 Vespertino Laryssa Roberta Alves Torres 8,40 8,00 A0 Química
+29790 Vespertino Lauany Gonçalves De Holanda Cavalcante 7,20 7,00 A0 Edificações
+34220 Vespertino Laura Beatriz Da Silva Couto. 8,20 7,80 A0 Edificações
+34104 Matutino Laura Beatriz Santos Da Silva 6,90 6,70 A0 Desenv. Sistemas
+34724 Matutino Laura Cândida Almeida Da Silva 8,40 8,50 A0 Edificações
+34561 Matutino Laura Esther Acioli Da Penha 6,55 6,80 A0 Desenv. Sistemas
+31955 Matutino Laura Fernanda Dantas Rijo 7,15 7,00 A0 Desenv. Sistemas
+30623 Matutino Laura Gabrielly Araújo Da Silva 7,05 7,10 A0 Edificações
+32959 Matutino Laura Grazielly Santos Lopes Duarte 7,30 7,50 A0 Desenv. Sistemas
+32122 Vespertino Laura Maria Helena Da Silva 7,25 7,40 L2 Química
+33080 Matutino Laura Pinheiro Milkem 7,50 7,50 A0 Química
+33291 Matutino Laura Serino Elias Da Silva 7,60 7,60 A0 Estradas
+31605 Matutino Laura Vitória De Moraes Silva 7,15 7,30 A0 Mecânica
+30349 Vespertino Lavinia De Amorim Silva 6,95 7,30 L2 Eletrotécnica
+30356 Matutino Lavínia Vitória Alves Batista 7,20 7,30 A0 Edificações
+29918 Matutino Lavínya Cesar Do Nascimento Santos 7,90 7,80 A0 Estradas
+32733 Matutino Layla Cristine Santos Silva 7,70 8,10 A0 Eletrônica
+33056 Matutino Layla Lindalva Gomes Da Silva Xavier 9,05 8,80 L6 Desenv. Sistemas
+29897 Matutino Laysa Eduarda Barros Da Silva 7,55 7,10 A0 Edificações
+29676 Matutino Laysa Paulino Alves 6,85 7,50 L2 Estradas
+30746 Matutino Leandro Celestino Dos Santos 6,10 6,10 L6 Edificações
+32920 Vespertino Leandro Dos Santos Palmeira 5,90 5,80 L1 Estradas
+33315 Vespertino Leandro Ramos De Almeida 6,60 7,20 A0 Mecânica
+31497 Vespertino Lenisvaldo Alves De Melo 8,60 8,10 A0 Desenv. Sistemas
+31308 Matutino Leonardo Felipe Alves Xavier Da Silva 6,60 6,20 A0 Desenv. Sistemas
+30648 Vespertino Leonardo Pedro Da Silva Ferreira 7,20 7,30 A0 Mecânica
+32995 Matutino Lethícia Gabrielle Bezerra Ávila 7,05 7,30 A0 Estradas
+34129 Matutino Letícia Batista Dos Santos 7,00 7,00 A0 Desenv. Sistemas
+33372 Matutino Leticia Campos Mandarino 8,05 7,80 A0 Estradas
+29822 Matutino Letícia De Lima Patez 8,45 9,10 A0 Química
+29835 Matutino Letícia Deodato Dos Santos 8,65 8,80 A0 Desenv. Sistemas
+33536 Matutino Letícia Emiliano Dos Santos 7,25 7,50 A0 Química
+34168 Vespertino Leticia Fernandes Teixeira Ferreira 6,50 6,90 A0 Desenv. Sistemas
+31428 Vespertino Letícia Gabriela Anselmo Pereira 8,15 8,30 A0 Edificações
+30658 Vespertino Letícia Hyanna Da Costa Santos Casado 10,00 10,00 A0 Edificações
+31902 Matutino Letícia Maria Dos Santos Silva 8,50 8,70 A0 Química
+32479 Matutino Letícia Oliveira Acioli 9,25 9,00 A0 Edificações
+31034 Vespertino Letícia Patrício Vicente 8,05 8,50 A0 Edificações
+32126 Matutino Letícia Souza Brandão 6,20 6,10 A0 Desenv. Sistemas
+33224 Vespertino Letícia Teixeira Ramalho Da Silva 8,35 9,00 A0 Química
+33926 Matutino Letícia Thais Da Siva 6,80 6,90 L1 Desenv. Sistemas
+33663 Matutino Letycia Maria Mota Silva 7,90 8,00 A0 Desenv. Sistemas
+34912 Vespertino Levi Melo Rosendo 7,75 7,90 A0 Desenv. Sistemas
+34775 Vespertino Levy Menezes De Oliveira 7,15 7,40 L6 Edificações
+34054 Vespertino Lídia Maria Soares De Albuquerque 6,85 6,70 A0 Edificações
+32425 Matutino Linda Orsi Vieira 7,80 7,50 A0 Edificações
+33814 Matutino Lissandra Santos Barbosa 6,45 6,80 A0 Química
+29785 Matutino Lívia Thays De Brito Fernandes 7,75 8,00 A0 Mecânica
+30556 Matutino Livia Vitoria Bezerra De Lima 8,40 9,00 L5 Edificações
+30308 Matutino Lívyan Gabrielly Inácio Da Silva 6,75 7,10 A0 Química
+31870 Matutino Lizianne Rhaynara Dos Santos 8,15 8,20 L1 Química
+30423 Vespertino Lohane De Amorim Silva 8,05 7,80 A0 Desenv. Sistemas
+30305 Matutino Lorena Maria Ferreira Guimarães 8,55 8,10 A0 Química
+34347 Matutino Louise Vanderlei Do Rego Marques 9,05 8,70 A0 Desenv. Sistemas
+35077 Vespertino Luan De Morais Amaral Lins 8,60 8,50 A0 Desenv. Sistemas
+32163 Vespertino Luan Santos De Oliveira 6,80 6,90 L2 Desenv. Sistemas
+32636 Vespertino Luana Camilly Dos Santos Alves 9,45 9,50 A0 Eletrônica
+33608 Matutino Luana Da Silva Santos 8,55 8,50 A0 Edificações
+30398 Matutino Luana Lima Da Silva 7,45 8,80 L1 Química
+32672 Vespertino Luana Raniely Carvalho De Souza 8,70 9,10 A0 Mecânica
+32072 Matutino Luana Vanessa De Moura Santos 7,80 7,30 L2 Eletrônica
+30408 Matutino Luana Vitória Correia Rêgo 6,30 6,50 A0 Mecânica
+34101 Matutino Luanne Gabriele Alves Da Silva 6,30 6,10 A0 Desenv. Sistemas
+34390 Vespertino Lucas Alexandre Araújo Barros 7,60 7,10 A0 Mecânica
+34812 Matutino Lucas Antônio Da Silva Bandeira 9,30 9,10 A0 Desenv. Sistemas
+32977 Matutino Lucas Eduardo Dos Santos Aguiar 8,05 8,10 A0 Mecânica
+31094 Matutino Lucas Emanuel Silva Dos Santos Ferreira 7,30 7,00 A0 Estradas
+34788 Matutino Lucas Felipe Da Silva Santos 8,10 8,50 A0 Desenv. Sistemas
+30534 Matutino Lucas Felipe De Souza Neves 6,70 6,80 A0 Estradas
+33179 Matutino Lucas Ferro Barros 8,75 8,60 A0 Desenv. Sistemas
+34401 Matutino Lucas Gabriel Cordeiro De Araújo 7,90 7,60 A0 Eletrotécnica
+35017 Matutino Lucas Gabriel Jerônimo De Melo 8,05 8,10 L5 Edificações
+31649 Matutino Lucas Henrique Café Monteiro 7,70 7,60 A0 Eletrotécnica
+34902 Matutino Lucas Henrique Soares De Lima 5,90 5,20 L2 Mecânica
+32354 Matutino Lucas Manuell Heroz Santos 6,55 6,80 L6 Desenv. Sistemas
+30883 Vespertino Lucas Misael Silva Do Nascimento 7,05 7,60 A0 Eletrônica
+32776 Matutino Lucas Moreira Lopes 7,35 7,30 L5 Desenv. Sistemas
+30258 Matutino Lucas Noberto Da Silva Santos 7,40 7,40 A0 Eletrotécnica
+30158 Matutino Lucas Rocha De Oliveira Santos 8,55 8,50 A0 Estradas
+34078 Matutino Lucas Santana De Oliveira 7,75 8,40 L5 Química
+31457 Vespertino Lucas Vasconcelos Dorville 6,75 6,70 A0 Eletrotécnica
+30597 Matutino Lucas Vinícius Dos Santos 7,20 6,80 L2 Desenv. Sistemas
+33869 Matutino Lucas Vinícius Pereira 8,00 8,20 A0 Química
+34474 Vespertino Luciano Arthur Paffer Padilha 9,15 9,10 A0 Química
+33407 Vespertino Luciele Dos Santos Silva 6,35 6,70 L5 Estradas
+31810 Matutino Luis Davi Santos Da Silva 6,80 7,00 A0 Eletrônica
+33805 Matutino Luís Eduardo Dos Dias 7,65 8,00 A0 Eletrônica
+31316 Vespertino Luís Eduardo Teixeira Dos Santos 7,60 7,60 A0 Estradas
+34200 Matutino Luís Fernandes Dos Santos Nascimento 8,45 9,30 L2 Desenv. Sistemas
+33272 Matutino Luis Fernando Do Nascimento Feliciano 9,15 9,00 A0 Química
+31287 Matutino Luís Gabriel Da Conceição Alencar 8,45 8,50 A0 Química
+34261 Matutino Luis Henrique Santos Prates 6,85 6,70 L2 Desenv. Sistemas
+32778 Vespertino Luisa Danielli Pessoa Pinto 7,25 7,50 A0 Eletrônica
+31630 Matutino Luiz Arthur Camilo Da Silva Carvalho 6,95 7,10 A0 Desenv. Sistemas
+31433 Matutino Luiz Arthur Santos Rebelo Lemos 7,25 7,60 A0 Mecânica
+34629 Vespertino Luiz Augusto Da Silva Neto 7,10 6,80 L5 Desenv. Sistemas
+31814 Matutino Luiz Augusto Macena Dos Santos Filhos 7,30 7,60 A0 Química
+30170 Matutino Luiz Davi De Castro Santos 6,10 6,10 L6 Química
+32207 Matutino Luiz Eduardo De Almeida Lima 8,05 8,10 A0 Eletrônica
+33306 Matutino Luiz Eduardo Farias De Lima 7,85 7,80 A0 Edificações
+32751 Matutino Luiz Fernando De Albuquerque Neto 7,05 6,80 A0 Edificações
+30873 Matutino Luiz Fernando Dos Santos Silva 8,90 8,50 A0 Mecânica
+33282 Matutino Luiz Gabriel Gama Paz 7,15 7,40 A0 Eletrônica
+29893 Matutino Luiz Gabriel Roberto Da Silva Nascimento 6,30 6,50 A0 Mecânica
+30603 Vespertino Luiz Guilherme De Oliveira Ataíde 6,50 7,00 A0 Mecânica
+30134 Matutino Luiz Guilherme Santos De Oliveira 6,05 6,00 A0 Desenv. Sistemas
+30011 Matutino Luiz Gustavo Do Nascimento Silva 6,15 6,30 A0 Mecânica
+33244 Matutino Luiz Gustavo Dos Santos 7,85 8,30 A0 Estradas
+30480 Vespertino Luiz Gustavo Santos Silva 7,50 7,50 A0 Desenv. Sistemas
+31305 Matutino Luiz Henrique Da Silva Rodrigues 7,55 8,10 A0 Eletrotécnica
+31604 Matutino Luiz Henrique Da Silva Santos 7,30 7,50 A0 Desenv. Sistemas
+31439 Matutino Luiz Henrique De Souza Melo Lima 8,50 8,30 A0 Estradas
+34090 Matutino Luiz Miguel Dos Santos Santana 8,10 8,50 L2 Mecânica
+33129 Matutino Luiz Uriel Fradique Falcão Viana 7,35 7,50 A0 Eletrônica
+32127 Vespertino Luiza Alves Da Rocha 7,90 7,50 A0 Desenv. Sistemas
+31299 Matutino Luiza Santos Do Nascimento 7,35 6,90 L1 Estradas
+31177 Matutino Luma Marinho Da Silva 8,70 8,90 A0 Estradas
+32140 Matutino Luna Beatriz De Oliveira Cavalcanti 6,50 6,70 A0 Mecânica
+32094 Vespertino Luna Gabrielly Lopes Costa 7,70 7,80 A0 Desenv. Sistemas
+30726 Matutino Luna Maria Vieira Dos Santos 7,85 8,20 L6 Desenv. Sistemas
+34158 Matutino Macsóstenes Camilo Cordeiro 7,00 7,00 A0 Química
+33445 Matutino Magna Luanda Moreira Alcantara 7,95 8,20 A0 Desenv. Sistemas
+31875 Matutino Manoel Messias De Oliveira Rodrigues 9,80 10,00 A0 Eletrônica
+34243 Matutino Manoel Vitor De Castro Laranjeira Rocha 9,10 8,80 A0 Desenv. Sistemas
+29757 Matutino Manuella Leite De Melo 8,40 8,20 L1 Química
+31702 Matutino Mara Nathaly Santos Machado 8,30 9,00 A0 Edificações
+33089 Vespertino Marcel Krystian Cavalcante Paiva Azevedo 6,85 7,10 A0 Desenv. Sistemas
+32203 Matutino Marcelo Anthony Alves Nunes 9,20 8,80 A0 Química
+34105 Matutino Marcelo Augusto Vilela Dos Santos 6,90 7,00 L2 Desenv. Sistemas
+30588 Matutino Marcelo Dos Santos Gonçalves Júnior 6,85 6,70 A0 Desenv. Sistemas
+32532 Matutino Marcia Gabrielly Uchôa De Melo 7,90 8,00 A0 Química
+33694 Matutino Marco Aurélio Cavalcante Celestino Filho 8,50 8,50 A0 Mecânica
+33415 Vespertino Marcos Alexandre Dos Santos Filho 8,25 8,10 A0 Química
+33924 Matutino Marcos André Fialho Da Silva Júnior 8,30 7,60 A0 Desenv. Sistemas
+35142 Matutino Marcos Antônio De Mendonça França 7,25 7,30 A0 Química
+29756 Matutino Marcos Antônio Félix De Lima Brito 7,30 8,00 A0 Eletrônica
+35085 Matutino Marcos Eduardo Santos Da Silva 7,30 6,90 A0 Química
+29871 Vespertino Marcos Vinicius Alves Dos Santos 9,30 8,80 A0 Edificações
+34755 Matutino Marcos Vinícius Messias Da Silva 8,80 9,10 L6 Mecânica
+31013 Matutino Marcos Vinícius Salvador Dos Santos 8,00 8,00 L2 Eletrônica
+31798 Matutino Marcus Vinicius Queiroz Bomfim 7,30 7,10 A0 Desenv. Sistemas
+32048 Matutino Maria Alice De Lima Alves 7,45 7,20 A0 Desenv. Sistemas
+30200 Matutino Maria Ana Laura Dos Santos Gomes 8,80 8,60 A0 Desenv. Sistemas
+30301 Matutino Maria Andressa Dos Santos 7,40 7,50 L2 Desenv. Sistemas
+34337 Matutino Maria Andressa Nogueira Dos Santos 7,95 7,70 L1 Desenv. Sistemas
+34661 Matutino Maria Anita Guilherme Costa 7,05 6,80 A0 Desenv. Sistemas
+32443 Vespertino Maria Beatriz Lins Farias 7,55 7,50 A0 Química
+33036 Matutino Maria Beatriz Rodrigues De Lima 9,60 9,60 A0 Química
+29775 Matutino Maria Beatriz Souza Da Silva Paz 7,95 8,10 A0 Química
+34762 Vespertino Maria Clara Aragão Souza 6,40 6,10 A0 Desenv. Sistemas
+30782 Matutino Maria Clara Brechó Monteiro Duarte 7,85 8,10 A0 Desenv. Sistemas
+32598 Vespertino Maria Clara Cavalcante Vilela 6,65 6,60 A0 Edificações
+32509 Matutino Maria Clara Coutinho De Mendonça 7,60 7,70 L5 Edificações
+33198 Matutino Maria Clara Da Silva Rosendo 8,20 8,10 A0 Estradas
+33740 Vespertino Maria Clara Dos Santos 8,55 8,10 A0 Desenv. Sistemas
+30781 Matutino Maria Clara Dos Santos Pinto 7,20 7,30 A0 Química
+31856 Matutino Maria Clara Gomes Dornelas 6,45 6,60 A0 Estradas
+32651 Matutino Maria Clara Gomes Lourenço 9,00 8,80 A0 Química
+35025 Matutino Maria Clara Lourenço Reis 8,70 8,80 A0 Estradas
+31057 Matutino Maria Clara Miranda Virgínio 6,60 6,80 A0 Estradas
+31156 Matutino Maria Clara Paulino Da Silva Santos 7,35 7,60 A0 Eletrotécnica
+33201 Matutino Maria Clara Vitor Costa 8,85 8,60 A0 Mecânica
+34611 Vespertino Maria De Fátima Dos Santos 7,15 7,30 A0 Desenv. Sistemas
+31577 Vespertino Maria De Fátima Laureano Costa 6,55 6,30 A0 Estradas
+30155 Matutino Maria Doralice Da Silva 7,95 7,90 L2 Eletrônica
+33779 Matutino María Dos Anjos Oliveira Gomes Da Silva 7,00 7,00 L2 Eletrônica
+33992 Matutino Maria Dulce Magalhães Melo 6,35 6,50 A0 Desenv. Sistemas
+30662 Matutino Maria Eduarda Alves Braga 8,65 8,80 A0 Estradas
+31419 Vespertino Maria Eduarda Alves Do Rego Omena 7,70 7,60 A0 Edificações
+33202 Matutino Maria Eduarda Andrade De Souza Mota 9,10 8,90 A0 Estradas
+32847 Vespertino Maria Eduarda Barros De Carvalho 7,10 7,60 A0 Mecânica
+29740 Matutino Maria Eduarda Carneiro De Souza Lima 8,75 9,00 A0 Química
+33170 Matutino Maria Eduarda Crisostomo Dantas 8,55 8,30 A0 Estradas
+29886 Matutino Maria Eduarda Da Silva 8,10 7,90 A0 Química
+31909 Vespertino Maria Eduarda Da Silva Dias 6,25 6,50 A0 Eletrotécnica
+31112 Vespertino Maria Eduarda Da Silva Santos 7,35 7,70 A0 Eletrônica
+32779 Vespertino Maria Eduarda Da Silva Santos 6,85 7,60 L2 Edificações
+33714 Matutino Maria Eduarda De França Braz 8,65 8,00 A0 Estradas
+33003 Matutino Maria Eduarda De Melo E Silva 8,35 8,20 A0 Edificações
+32357 Matutino Maria Eduarda Do Carmo Mendonça 8,10 8,40 A0 Química
+34969 Matutino Maria Eduarda Dos Santos Lima 8,30 8,50 A0 Desenv. Sistemas
+32937 Matutino Maria Eduarda Dos Santos Tenorio Sabino 6,75 7,50 A0 Edificações
+31819 Vespertino Maria Eduarda Laureano Peixoto 6,80 6,70 A0 Eletrônica
+30828 Vespertino Maria Eduarda Magalhães E Silva 8,85 8,60 A0 Desenv. Sistemas
+30615 Matutino Maria Eduarda Mesquita Teles 7,20 7,70 A0 Mecânica
+30552 Matutino Maria Eduarda Teixeira De Lima 7,75 8,20 A0 Desenv. Sistemas
+31615 Matutino Maria Eduarda Teles Da Silva 7,25 7,00 L14 Edificações
+31890 Matutino Maria Eduarda Tenório Alencar 8,40 8,10 A0 Desenv. Sistemas
+31344 Vespertino Maria Eduarda Vitalino Gomes 8,20 8,30 A0 Química
+32412 Matutino Maria Elisa Ferreira De Albuquerque 6,70 6,80 A0 Desenv. Sistemas
+31591 Matutino Maria Elizia Da Silva Tavares 8,90 8,40 A0 Desenv. Sistemas
+34949 Vespertino Maria Erica Ferreira Da Silva 5,50 6,00 A0 Mecânica
+32247 Matutino Maria Fernanda Dos Santos Silva 6,95 7,10 L2 Estradas
+34097 Vespertino Maria Flor Pacheco Kaku 6,95 7,40 A0 Edificações
+32159 Matutino Maria Gabriela De Souza Santos 7,90 8,20 A0 Química
+33013 Matutino Maria Gabriela Martins Da Silva Almeida 6,90 6,90 A0 Estradas
+32442 Matutino Maria Gabrielle Raimundo Silva 8,65 8,80 L2 Mecânica
+30294 Vespertino Maria Geovânia Bertoldo Costa De Moraes 8,80 8,30 A0 Edificações
+34324 Matutino Maria Giovana Querino Dos Santos 8,25 8,20 A0 Estradas
+34555 Matutino Maria Gleide De Lima Oliveira 7,55 7,60 A0 Química
+31532 Vespertino Maria Guiomar Farias De Sousa 8,50 8,30 A0 Eletrotécnica
+29731 Matutino Maria Helena Maciel Da Cruz 8,95 8,80 A0 Química
+34027 Matutino Maria Heloiza Dos Santos 7,40 8,00 L6 Estradas
+32287 Vespertino Maria Ilza Dos Santos Tenório 7,60 7,60 L2 Desenv. Sistemas
+33357 Matutino Maria Isabela Da Silva Amorim 8,55 8,80 A0 Desenv. Sistemas
+30351 Vespertino Maria Isabely Freitas Rodrigues 6,60 6,90 A0 Eletrônica
+32660 Matutino Maria Isadora Soriano Barros De Menezes 7,30 7,30 A0 Desenv. Sistemas
+33139 Matutino Maria Izabel Dos Santos Oliveira 8,60 8,80 L6 Desenv. Sistemas
+34284 Vespertino Maria Jaqueline Mateus Dos Santos 8,00 8,30 L6 Edificações
+30439 Matutino Maria Júlia Conceição Da Silva 7,45 7,50 L2 Mecânica
+33197 Vespertino Maria Júlia De Paulo E Silva 7,00 6,90 A0 Eletrônica
+33973 Vespertino Maria Júlia Santana Alves 7,70 7,70 A0 Eletrônica
+30734 Matutino Maria Julia Torres Leodino 8,30 7,90 A0 Edificações
+32414 Matutino Maria Kawane Lopes Costa 6,75 7,20 L1 Desenv. Sistemas
+32424 Matutino Maria Klecianne Silva De Andrade 7,40 8,20 A0 Desenv. Sistemas
+34036 Matutino Maria Laura Ferreira De Carvalho 7,30 7,30 A0 Edificações
+29885 Vespertino Maria Laysa Marcelli Peixôto De Mélo Acioli 6,90 7,00 A0 Edificações
+34516 Vespertino Maria Leticia Da Silva Duarte 7,65 7,80 L2 Edificações
+33705 Matutino Maria Letícia Dâmaso Cavalcante De Almeida 8,95 9,20 A0 Química
+30309 Matutino Maria Letícia Silva De Novaes 8,20 8,50 A0 Química
+30840 Matutino Maria Lorena De Bueno Brandão Silva 8,50 8,50 A0 Desenv. Sistemas
+30286 Matutino Maria Luísa Agra De Farias 8,75 8,90 A0 Edificações
+31099 Matutino Maria Luísa Da Costa De Sousa 8,10 8,10 A0 Estradas
+33681 Matutino Maria Luisa De Araújo Ferreira Seabra 7,95 8,00 A0 Química
+31029 Matutino Maria Luisa Mesquita Macedo 8,30 8,10 A0 Química
+32238 Vespertino Maria Luiza Clemente Acioli 7,45 7,80 L2 Edificações
+30435 Vespertino Maria Luiza De Farias De Assis Silva 7,20 7,10 A0 Edificações
+32813 Matutino Maria Luiza De Souza Santos 6,75 7,00 A0 Edificações
+34296 Vespertino Maria Luíza Rodrigues Da Silva 7,40 6,60 L5 Química
+32811 Vespertino Maria Luiza Silva De Vasconcelos 7,80 8,00 A0 Química
+31357 Vespertino Maria Luiza Souza Silva 8,05 7,80 A0 Edificações
+34601 Matutino Maria Luiza Vilela Costa 6,75 6,90 A0 Edificações
+34095 Vespertino Maria Lybia Laurindo Da Silva 7,00 7,60 L6 Desenv. Sistemas
+30091 Matutino Maria Marissol Xavier Dos Santos 7,60 7,30 L6 Estradas
+34740 Matutino Maria Olívia Duarte Da Costa 8,20 8,30 A0 Mecânica
+30152 Matutino Maria Rita Alves Da Silva 7,15 7,00 A0 Estradas
+31167 Matutino Maria Rita Paulino Da Silva Santos 7,40 7,50 A0 Eletrotécnica
+33011 Matutino Maria Rita Vieira Teófilo 8,45 8,10 L2 Química
+30060 Vespertino Maria Tarsila Da Silva Lima Gomes 7,80 8,30 A0 Estradas
+32914 Vespertino Maria Uerika Barros Gomes Dos Santos 7,90 7,90 A0 Edificações
+33419 Matutino Maria Victória Nascimento Dos Santos 6,95 7,10 L2 Eletrônica
+31477 Vespertino Maria Vitoria Da Silva Morelli 6,35 6,70 L2 Edificações
+34252 Matutino Maria Vitória Oliveira Fernandez 7,45 7,80 A0 Estradas
+33917 Matutino Maria Wedilane Da Silva Monteiro 5,80 6,20 L2 Estradas
+30109 Matutino Maria Yasmim Félix Eugênio Dos Santos 7,70 7,90 L2 Química
+34056 Matutino Maria Yasmin Nayara Domingos Silva 8,70 8,80 A0 Desenv. Sistemas
+33980 Vespertino Mariana Andrade Gois 7,85 7,70 A0 Edificações
+31647 Vespertino Mariana Bonfim Pinto 6,65 7,00 A0 Química
+31264 Vespertino Mariana Caroliny Oliveira Gomes 7,50 8,00 A0 Edificações
+29937 Matutino Mariana De Freitas França 8,00 7,90 A0 Mecânica
+35011 Vespertino Mariana Emanuelly Da Silva Gomes 7,70 8,50 A0 Edificações
+35065 Matutino Mariana Paulino Dos Santos 8,30 8,10 A0 Eletrotécnica
+32185 Vespertino Mariana Soares Mota 8,80 8,60 A0 Edificações
+30278 Vespertino Marianne Florentino Bezerra 9,40 9,20 L5 Química
+30562 Matutino Marília Beatriz Batinga Da Silva 8,05 8,60 A0 Mecânica
+32768 Vespertino Marília Gabrielly De Souza Mascarenhas 7,30 7,80 A0 Edificações
+35191 Vespertino Mariliafariasflor@gmail. Com 6,75 7,30 A0 Mecânica
+31524 Matutino Marílya Barbosa Santos 8,35 8,90 A0 Estradas
+30783 Matutino Marina De Carvalho Costa 6,60 6,60 A0 Desenv. Sistemas
+32474 Matutino Marina De Lima Cavalcante 6,95 7,10 A0 Química
+30919 Matutino Marina De Moura Ramos Febronio 8,85 8,80 A0 Edificações
+31726 Vespertino Marina Gomes Madeiros 9,25 9,00 A0 Edificações
+32455 Matutino Marina Marra Moncks De Oliveira 8,45 9,10 L5 Eletrônica
+34485 Vespertino Marina Rodrigues Da Silva 6,95 6,60 A0 Edificações
+31037 Vespertino Marina Tecy Araújo Da Silva 8,30 8,10 A0 Edificações
+35108 Matutino Marta Carolayne Dos Santos Januário 7,20 6,90 A0 Desenv. Sistemas
+33916 Vespertino Marya Eduarda Da Silva Souza 9,30 8,90 A0 Química
+32171 Vespertino Maryana Raphaely Lima Da Silva 7,15 7,50 L2 Edificações
+31024 Vespertino Mateus Alexandre Da Silva Lima 6,95 6,30 L2 Edificações
+31325 Matutino Mateus Davi Quidute De Melo 7,20 7,30 A0 Eletrotécnica
+32577 Vespertino Mateus Ricardo Moreira Chaves Dos Santos 6,55 6,80 A0 Mecânica
+31963 Matutino Matheus Henrique Da Silva Moreira Piancó 6,80 7,00 A0 Desenv. Sistemas
+33229 Vespertino Matheus Antonio Barros Holanda 7,70 8,10 A0 Edificações
+32752 Vespertino Matheus De Castro Costa Santos 7,45 6,90 A0 Eletrônica
+32508 Matutino Matheus De Lima Silva 8,20 8,30 A0 Mecânica
+30185 Matutino Matheus Dos Santos Rocha 8,25 8,70 L2 Desenv. Sistemas
+30900 Matutino Matheus Ferreira Da Silva Barros 9,55 9,50 A0 Desenv. Sistemas
+34619 Matutino Matheus Gabriel Silva Fonseca 7,35 7,10 A0 Desenv. Sistemas
+31953 Vespertino Matheus Natanael Santos 6,70 6,40 A0 Desenv. Sistemas
+32930 Matutino Matheus Santos Da Costa 6,40 6,10 A0 Eletrotécnica
+34144 Vespertino Matheus Santos De Araújo Antunes 6,65 6,40 L2 Eletrotécnica
+31932 Matutino Matheus Vinícius Almeida Nunes 8,05 7,80 A0 Desenv. Sistemas
+35196 Matutino Matheus Vitor Soares De Lima 6,10 6,90 L2 Mecânica
+33255 Vespertino Mauro Da Conceição Santos 9,20 8,80 L2 Edificações
+34504 Vespertino Maxsuel Lucas Santos Oliveira 6,60 6,00 L2 Química
+33834 Matutino Mayane Silva Dos Santos 8,80 8,90 A0 Estradas
+34435 Matutino Mayara Da Conceicao Dos Santos 8,00 7,80 L6 Desenv. Sistemas
+31036 Matutino Mayara Lamenha Da Silva 8,15 8,20 L2 Desenv. Sistemas
+34395 Vespertino Mayara Lins Dos Santos 9,15 9,00 A0 Desenv. Sistemas
+32427 Matutino Mayara Menezes Da Silva 6,50 6,30 L2 Química
+31945 Vespertino Mayara Santana Santos 8,20 8,30 A0 Eletrônica
+30253 Vespertino Mayco Yuri Gomes Dos Santos 7,05 7,70 A0 Desenv. Sistemas
+33502 Matutino Maycon Do Nascimento Silva 7,05 7,10 L2 Mecânica
+31956 Vespertino Maycon Nascimento De Carvalho 7,00 7,50 A0 Eletrônica
+31449 Matutino Mayk Gabriel De Oliveira Ramos 7,25 7,50 A0 Eletrônica
+35093 Matutino Mayra Laís Da Silva Oliveira 8,45 8,30 A0 Estradas
+30622 Matutino Mêidala Vitória Lima Dos Santos 9,00 9,30 L2 Desenv. Sistemas
+34526 Matutino Melrick Davison Fonseca Ribeiro 9,75 9,80 L1 Desenv. Sistemas
+32115 Vespertino Micael Estevão Da Silva 8,05 7,80 L2 Mecânica
+30704 Matutino Michael Pedro Costa Da Silva 7,45 7,10 A0 Eletrotécnica
+29689 Matutino Michael Santos Ribeiro Da Silva 6,65 6,80 L2 Eletrotécnica
+33959 Matutino Michel Das Neves Guimarães 7,90 7,90 A0 Desenv. Sistemas
+29848 Matutino Micherlayne De Freitas Pessoa 8,90 9,00 L2 Desenv. Sistemas
+31589 Matutino Mickaely Miriam Marcelino 7,30 7,50 L2 Desenv. Sistemas
+33412 Vespertino Mighel Guedes Silva 7,00 7,50 L5 Química
+30799 Matutino Miguel Angelo Gomes Dos Santos 7,05 7,00 L2 Desenv. Sistemas
+29793 Vespertino Miguel Anselmo Lima Da Silva 6,90 7,00 A0 Desenv. Sistemas
+29895 Matutino Miguel Dos Santos Ferreira 6,80 6,80 A0 Mecânica
+32706 Matutino Miguel Ferreira Laurentino 9,40 9,30 A0 Desenv. Sistemas
+30521 Vespertino Miguel Kadymu Da Costa Neiva Dos Santos 6,40 6,40 A0 Mecânica
+30575 Vespertino Miguel Zeferino Heuer 8,15 8,00 A0 Desenv. Sistemas
+33305 Matutino Mikael Lucas Meneses Lira 7,65 7,50 L2 Mecânica
+30769 Matutino Mikaelle Manuele Simplicio Santos 7,60 8,10 A0 Desenv. Sistemas
+30688 Matutino Mikhael Dos Santos Silva 7,55 7,80 A0 Estradas
+29863 Vespertino Milena Maria Tavares Dos Santos 8,55 8,70 A0 Desenv. Sistemas
+32746 Matutino Milene Vitória Pimentel Pessoa 8,15 8,00 A0 Desenv. Sistemas
+33638 Vespertino Millena Do Espírito Santo Soares 7,25 7,80 L6 Química
+30659 Matutino Millene Silva Ferreira Hora 9,65 9,30 A0 Edificações
+32176 Matutino Miquéias Santos Cardoso 8,95 9,10 A0 Mecânica
+35072 Vespertino Mirela Rayanne Ferreira Da Silva 7,00 7,30 A0 Eletrotécnica
+32389 Vespertino Mirella Do Nascimento Santos 7,45 7,60 L2 Desenv. Sistemas
+31709 Matutino Mirella Dos Santos Nascimento 9,60 9,60 A0 Química
+29811 Matutino Mirella Victoria Lourenço Da Silva 8,30 8,60 L1 Desenv. Sistemas
+30040 Matutino Mirelly Leandro Dos Santos 7,05 7,50 L2 Química
+33015 Matutino Mirelly Relins Da Silva 7,70 7,80 A0 Química
+34268 Matutino Mirlayne Sabrina Oliveira Silva 7,15 7,20 A0 Química
+33146 Matutino Mirosmar Dos Santos Silva 7,45 7,30 L2 Química
+29985 Matutino Misael Natã Silva Dos Santos 7,70 7,80 A0 Eletrotécnica
+32898 Matutino Mônica De Melo Santiago 7,30 8,00 A0 Desenv. Sistemas
+32467 Matutino Monike Alves De Castro 8,00 8,50 A0 Edificações
+30742 Matutino Moniky Dos Santos Gonçalves 6,40 6,50 A0 Desenv. Sistemas
+33633 Matutino Morôni Victor De Oliveira Tôrres 9,70 9,80 A0 Eletrotécnica
+32896 Vespertino Murillo De Pontes Silva 8,50 8,20 A0 Desenv. Sistemas
+30199 Matutino Murilo Caetano Vanderley 6,90 7,20 A0 Eletrotécnica
+33786 Matutino Murilo Ramalho Cavalanti Xavier 6,20 6,10 A0 Eletrônica
+31595 Vespertino Murilo Wanderlei De Lima Bezerra 7,80 7,80 A0 Estradas
+34574 Vespertino Myllena Roberta Lins De Oliveira 6,65 6,60 A0 Mecânica
+30672 Matutino Myrela Lins Dos Santos 8,15 8,40 A0 Estradas
+29804 Matutino Myrella Dayanne Procópio Vieira Alves 9,10 8,60 A0 Estradas
+32674 Vespertino Myrelly Yasmim Lima De Oliveira 7,75 7,70 A0 Edificações
+33912 Matutino Naeliton Junio Dos Santos 9,20 9,80 L2 Química
+30957 Vespertino Nalberth Farias Do Nascimento 7,40 7,60 L2 Mecânica
+30434 Matutino Nara Samyra Fonseca Urubá Leitão 8,35 8,10 A0 Química
+33938 Matutino Natali Leandra Alexandre Gomes 8,30 8,30 L6 Química
+30138 Matutino Natali Nayara Da Silva 8,00 8,80 L2 Química
+29734 Matutino Natália Da Silva Araújo 7,15 7,50 L2 Estradas
+31769 Matutino Natália Gomes Simões Dos Santos 7,55 8,00 A0 Desenv. Sistemas
+33123 Vespertino Natália Kristine Dos Santos Pereira 7,35 7,40 A0 Química
+35099 Vespertino Nathalia Ranyelli Vicente Da Silva 8,20 8,80 L6 Edificações
+34316 Matutino Nathalia Vicktória Dos Santos Silva 7,70 7,80 L2 Desenv. Sistemas
+33403 Vespertino Nathalie Marina De Moura Amancio 7,55 7,60 A0 Desenv. Sistemas
+29883 Matutino Nathaly Lavínia Brito Almeida 8,50 8,50 A0 Química
+29748 Matutino Nayara Vieira Lins 7,70 8,10 A0 Estradas
+34532 Matutino Nayra Beatriz Da Silva Silvestre 7,20 6,80 A0 Estradas
+30346 Vespertino Nedja Ferreira Da Silva 7,30 7,80 L5 Química
+32740 Matutino Nelchael De Oliveira Chaves 8,05 7,80 A0 Mecânica
+34910 Vespertino Nelly Maria De Lima Soares 7,80 7,80 A0 Química
+34931 Matutino Nicolas Gabriel Silva Dos Santos 7,05 7,00 L1 Edificações
+30986 Matutino Nicolas José Da Silva Souza 7,25 6,90 A0 Desenv. Sistemas
+30523 Matutino Nícolas Matheus Oliveira De Medeiros 7,75 7,80 A0 Eletrônica
+31547 Matutino Nicolas Patrick Correia Da Silva 7,25 7,60 A0 Eletrotécnica
+31291 Matutino Nícolas Victor Barros Figueiredo 6,70 6,80 A0 Desenv. Sistemas
+33088 Matutino Nicole Heloísa Belfort Do Rego 8,45 8,50 A0 Edificações
+35155 Vespertino Nicolle Do Nascimento Matias 7,20 6,90 A0 Estradas
+32878 Vespertino Nicolly Estefhany Ávila Gonçalves Vieira 8,80 8,70 L1 Edificações
+34326 Matutino Nicolly Vitória Rocha Do Nascimento Silva 6,55 6,80 A0 Química
+29911 Vespertino Nicoly Grazielle Santos De Abreu 8,40 8,10 A0 Desenv. Sistemas
+30757 Matutino Nikésia Patricia Omena Da Silva 7,40 7,70 L2 Química
+31508 Matutino Nikolay Souza 7,10 6,60 A0 Química
+31238 Matutino Nivia Mirelle De Oliveira 8,65 8,80 A0 Desenv. Sistemas
+34530 Vespertino Nycolas Umbelino Angelo 7,50 7,00 L2 Desenv. Sistemas
+30791 Matutino Olga Yara Feijó Dos Santos 8,55 8,60 A0 Química
+31662 Matutino Olívia Pereira De Souza 8,00 8,90 A0 Edificações
+34792 Matutino Pabllo Pinheiro Da Silva Alexandre 7,20 7,10 A0 Mecânica
+31713 Matutino Pablo Alerhandro Santos Martins 8,50 8,10 L2 Eletrotécnica
+29755 Matutino Pablo Da Silva Gomes 7,65 7,60 A0 Química
+33927 Matutino Pamella Gabrielly Batista Da Silva 8,55 8,40 A0 Estradas
+30683 Vespertino Patrick Ryan Medeiros De Lima 8,10 8,10 A0 Eletrotécnica
+31336 Matutino Paullo Henryk Ribeiro Sobral Altino 8,70 8,80 L2 Química
+32961 Matutino Paulo André Barros De Lira 6,65 6,40 A0 Desenv. Sistemas
+30921 Matutino Paulo Daniel De Couto Neto 9,15 9,50 L1 Eletrotécnica
+31261 Vespertino Paulo Davi Ayres Correia 7,80 8,60 A0 Desenv. Sistemas
+30594 Matutino Paulo Dhaniell Freire De Alapenha 7,15 7,60 A0 Eletrônica
+31834 Vespertino Paulo Henrique Alves Da Silva 9,00 9,00 L2 Desenv. Sistemas
+31521 Matutino Paulo Henrique Da Silva 8,15 9,00 L2 Química
+34235 Vespertino Paulo Nilo Bugarin Borba 7,90 7,70 A0 Desenv. Sistemas
+30774 Matutino Paulo Roberto Dué De Souza 7,75 7,50 A0 Eletrotécnica
+33725 Matutino Paulo Sérgio Da Silva Teófilo 6,80 7,00 A0 Mecânica
+33190 Vespertino Pedro Anísio Dias Pinto 8,40 8,10 A0 Edificações
+30178 Vespertino Pedro Antonio Calheiros De Mello Santa Bar 9,45 9,60 A0 Edificações
+31499 Matutino Pedro Cauan Das Neves Holanda Leite 6,95 7,30 L2 Estradas
+29919 Vespertino Pedro Cesar Celino Da Silva 9,25 9,00 A0 Química
+32178 Matutino Pedro Cleyvid Santos Cordeiro 9,50 9,50 L5 Desenv. Sistemas
+32963 Vespertino Pedro Costa Pereira Júnior 6,85 7,10 A0 Desenv. Sistemas
+34727 Matutino Pedro Felipe Lins Costa 6,60 6,30 A0 Eletrônica
+31708 Matutino Pedro Fernandes Oliveira Silva 6,40 6,60 A0 Estradas
+32470 Matutino Pedro Gustavo Da Silva Mendes 7,15 7,00 A0 Desenv. Sistemas
+34636 Matutino Pedro Henrique Barbosa Santos 7,80 8,10 A0 Eletrônica
+30374 Vespertino Pedro Henrique Da Silva 8,30 7,80 A0 Eletrônica
+30107 Vespertino Pedro Henrique Da Silva 7,75 7,60 L2 Edificações
+32284 Vespertino Pedro Henrique Da Silva Santos 7,45 8,30 A0 Edificações
+33836 Matutino Pedro Henrique Vieira Da Silva Borba 8,40 8,40 A0 Mecânica
+30130 Matutino Pedro Henrique Vieira Da Silva Santos 7,40 7,50 A0 Estradas
+30694 Matutino Pedro Hiogo Assunção De Alcântara 7,85 7,40 A0 Desenv. Sistemas
+34222 Vespertino Pedro Lucas Cerqueira De Farias 7,65 8,00 A0 Mecânica
+32921 Vespertino Pedro Lucas Dantas Siqueira 8,70 8,60 A0 Química
+33614 Matutino Pedro Lucas Marinho Duarte 7,95 7,60 L1 Eletrotécnica
+31739 Vespertino Pedro Lucas Menezes De Azevedo Barros 7,05 6,90 A0 Mecânica
+31671 Matutino Pedro Olavo Brasil Montenegro Calheiros 7,45 7,80 A0 Química
+32379 Vespertino Pedro Paulo Linhares Filho 7,20 7,50 L2 Eletrotécnica
+30418 Matutino Pedro Ramirez Lima Da Silva 6,70 6,50 A0 Mecânica
+32819 Matutino Pedro Tenorio Cardoso Da Silva Nascimento 6,65 6,90 A0 Mecânica
+30208 Vespertino Pedro Vinicius Lins Vieira Brites 8,85 8,90 A0 Química
+30812 Matutino Pedro Vítor Araújo De Souza 8,60 8,70 A0 Química
+33619 Matutino Pétra Peixoto Caldas Da Costa 8,65 8,90 A0 Estradas
+34184 Matutino Phelipe Miquelino Pereira Lima 6,65 6,70 A0 Mecânica
+34380 Matutino Philipe Bruno Maciel Da Silva 6,50 6,50 L2 Eletrônica
+32507 Matutino Quezia Costa Da Silva 7,80 7,70 L1 Química
+31548 Vespertino Quezia Laryssa Pugliesi Euclides 7,10 8,00 L6 Desenv. Sistemas
+31093 Vespertino Rafael Barros De Omena Lima 8,40 8,20 A0 Química
+34787 Matutino Rafael De Almeida Albuquerque 7,55 7,60 A0 Desenv. Sistemas
+32129 Vespertino Rafael Dos Santos Cabral 7,55 7,60 L2 Edificações
+32777 Matutino Rafael Luiz Bandeira Almeida 9,15 8,70 L6 Desenv. Sistemas
+31196 Matutino Rafael Silva De Amorim 9,80 9,60 A0 Desenv. Sistemas
+30056 Matutino Rafael Vasconcelos De Omena Camilo Rodrig 6,95 7,60 A0 Estradas
+34884 Matutino Rafael Vinicius De Carvalho Meireles 8,05 8,00 A0 Eletrônica
+33395 Matutino Rafaela Do Nascimento Araújo 8,40 8,50 A0 Desenv. Sistemas
+33133 Vespertino Rafaela Rossi Gonçalves Silva 7,15 7,00 A0 Edificações
+31975 Matutino Raiane Cristina Da Silva E Souza 7,80 7,60 L2 Desenv. Sistemas
+34057 Matutino Railande Dos Santos Francisco 6,95 6,80 L2 Desenv. Sistemas
+32716 Vespertino Raissa Felix Santos 7,95 8,00 L2 Desenv. Sistemas
+31220 Matutino Raissa Gabriele Rocha Da Silva 7,00 7,60 L2 Edificações
+35147 Matutino Raíssa Íris Simões Araújo 8,20 8,20 A0 Desenv. Sistemas
+33564 Matutino Raissa Vitória De Souza Ferreira 6,80 7,00 L5 Química
+33563 Vespertino Rakieli Ferreira Da Silva 8,25 8,50 L2 Edificações
+34963 Matutino Ramon Rafael Araújo Avelino 8,15 8,10 L2 Mecânica
+33686 Matutino Raniery Barbara Dos Santos Lins 7,70 8,30 L5 Estradas
+34169 Matutino Raquel Suenny Lima Da Silva Santos 7,30 7,80 A0 Química
+34385 Matutino Rayane Victoria Almeida Januário 7,95 7,80 A0 Edificações
+32816 Vespertino Rayanne Karyne De Oliveira Santos 7,80 7,40 A0 Desenv. Sistemas
+32510 Vespertino Rayca Rafaelle Farias Dos Santos Pereira 7,85 7,60 A0 Desenv. Sistemas
+31610 Matutino Raynara Camilly Lima Da Silva 7,75 8,00 A0 Desenv. Sistemas
+30081 Matutino Raynhany Mycaele Souza Tavares 8,30 8,30 L2 Química
+33906 Matutino Rayssa Beatriz Dos Santos Lins 8,10 8,10 L2 Estradas
+31787 Matutino Rayssa Roberta Cezario Dos Santos 7,25 7,20 A0 Química
+29921 Vespertino Rayssa Sales Fernandes 7,80 8,10 A0 Desenv. Sistemas
+31621 Matutino Rayssa Victoria De Oliveira Silva 6,70 6,80 A0 Química
+31846 Matutino Rebeca Da Silva Peixoto 6,25 6,00 A0 Desenv. Sistemas
+33896 Matutino Rebeca Oliveira Moreira 8,95 8,90 A0 Edificações
+29872 Matutino Rebekah Tenório Moraes Silva 7,55 7,80 A0 Desenv. Sistemas
+30410 Matutino Regina Victoria Uchôa Lima Lessa 7,05 7,30 A0 Edificações
+30820 Matutino Reivilly Raissa Gomes Da Silva 8,45 8,50 A0 Edificações
+32338 Vespertino Renato Allan Alves Da Silva 6,50 7,00 A0 Desenv. Sistemas
+33388 Vespertino Rerold Leandro Da Silva 7,95 8,10 A0 Desenv. Sistemas
+31427 Vespertino Rhuan Victor Almeida Pereira 7,65 8,00 A0 Química
+32501 Matutino Rhuan Victor Nazario Moraes 7,15 7,00 A0 Química
+33730 Vespertino Rian Ferreira Da Silva 8,15 8,00 A0 Edificações
+31729 Matutino Rian Guilherme Da Silva Ferreira 7,40 7,00 L2 Mecânica
+32131 Vespertino Rilary Kethyllen Dos Santos Silva 7,55 7,70 L2 Edificações
+32328 Matutino Rilary Ricardo Calheiros Da Silva 6,85 6,30 L2 Química
+30540 Vespertino Rivelly Cristina Dos Santos Silva 8,10 7,90 L2 Edificações
+31828 Vespertino Rizia Nayara Barros Mazoni 7,20 7,40 A0 Eletrotécnica
+33040 Matutino Robert Davi Dantas Dos Santos 6,30 6,20 L2 Desenv. Sistemas
+32329 Vespertino Robert Ricardo Calheiro Da Silva 6,95 6,40 L2 Edificações
+34353 Vespertino Rodrigo Da Silva Santos 5,80 5,60 A0 Mecânica
+30819 Matutino Rodrigo De Brito Junior 7,95 8,40 A0 Desenv. Sistemas
+30888 Matutino Rodrigo Dos Santos 7,45 7,90 L1 Eletrotécnica
+33465 Matutino Rodrigo Jacinto Lopes 9,35 9,00 L1 Desenv. Sistemas
+30472 Matutino Ronald Matheus Dos Santos Gomes 8,50 8,70 A0 Eletrônica
+31482 Matutino Rosanny Rayssa Souza Clemente 8,85 8,90 A0 Desenv. Sistemas
+34042 Vespertino Ruan Mateus Seara Carvalho 7,55 7,40 A0 Edificações
+33508 Matutino Ruan Riquelme Da Silva Santos 8,35 7,90 L2 Química
+32522 Matutino Ruan Romildo Da Silva 7,80 7,40 L5 Eletrônica
+32399 Matutino Ruanny Kaline Da Silva Farias Dos Santos 6,45 6,30 A0 Mecânica
+32258 Matutino Rubian José Oliveira Tenório 8,15 7,50 A0 Desenv. Sistemas
+32310 Matutino Rute Guilherme Da Silva 7,35 7,10 L1 Eletrônica
+30539 Matutino Rute Oliveira Da Silva 7,90 9,00 L2 Desenv. Sistemas
+31108 Vespertino Ryan Antonny Harada De Araújo 8,80 8,80 A0 Desenv. Sistemas
+30347 Matutino Ryan Lucas De Melo Cavalcanti 7,10 7,10 A0 Estradas
+32932 Matutino Ryan Rodrigo Cardoso Dos Santos 8,20 8,60 L2 Desenv. Sistemas
+34471 Vespertino Ryan Silva Dos Santos 6,50 6,40 L2 Eletrotécnica
+34825 Vespertino Ryan Teles Ribeiro 6,50 6,50 A0 Edificações
+30715 Vespertino Ryann Calaca Felix Da Silva 7,30 7,50 A0 Estradas
+34468 Vespertino Ryllary Silva Dos Santos 7,20 8,00 L2 Edificações
+30209 Matutino Sabrina Dos Santos Mendonça 7,35 7,50 A0 Desenv. Sistemas
+30613 Vespertino Sabrina Silva Do Nascimento 7,75 7,80 A0 Edificações
+30132 Vespertino Samantha Camargo Tocci 7,15 7,50 A0 Edificações
+30164 Vespertino Samara Maria Da Silva Reis 8,60 8,50 A0 Eletrônica
+31289 Vespertino Samia Damylla Rogerio Neves Da Silva 6,75 6,90 A0 Mecânica
+31599 Matutino Samila Kelly Vieira De Barros 6,85 7,30 L1 Estradas
+31837 Matutino Samir Silva De Souza Júnior 6,05 6,10 A0 Desenv. Sistemas
+31245 Matutino Samira Pereira Marques 7,15 7,40 A0 Estradas
+33893 Vespertino Sammuel Carlos Dos Santos França 7,30 7,70 L2 Desenv. Sistemas
+30918 Matutino Sammy De Couto Pereira 8,05 8,00 A0 Eletrotécnica
+29877 Matutino Samuel Angel Da Silva Soares 7,35 7,20 A0 Mecânica
+31399 Matutino Samuel Araújo Bispo 7,25 7,10 A0 Estradas
+32876 Matutino Samuel Brandão De Lima 9,60 9,50 A0 Química
+30756 Matutino Samuel Brito Do Nascimento 6,40 6,20 L2 Mecânica
+32405 Vespertino Samuel Da Silva Ferreira 6,80 7,00 L2 Desenv. Sistemas
+33402 Matutino Samuel Fabio Clemente Da Silva 6,25 6,20 A0 Desenv. Sistemas
+30954 Vespertino Samuel Felipe Alves Almeida Melo 7,00 6,60 L1 Edificações
+33214 Vespertino Samuel Heitor Dos Santos Cavalcante 6,35 6,60 A0 Estradas
+34049 Matutino Samuel Jesse Da Silva Galdino 6,50 6,00 A0 Desenv. Sistemas
+33206 Vespertino Samuel Lins Cerqueira 8,55 8,60 A0 Química
+31376 Vespertino Samuel Smith Gomes Dos Santos 8,80 9,10 A0 Edificações
+34696 Matutino Sâmya Da Silva Lima 7,30 7,00 A0 Estradas
+32392 Vespertino Sara Beatriz Ferreira Alves 7,65 8,00 L2 Estradas
+31384 Matutino Sara Ferreira Nascimento 6,40 7,00 A0 Eletrônica
+33136 Vespertino Sara Lavinia Santos Costa 7,60 8,60 A0 Eletrônica
+34570 Matutino Sara Lícia Batista Candido Dos Santos 7,75 8,10 A0 Química
+33289 Matutino Sara Rocha Do Nascimento 7,85 7,80 A0 Química
+33855 Vespertino Sara Vitoria Santos Reis 7,95 8,10 A0 Edificações
+30466 Matutino Sarah Alves De Oliveira 9,05 8,80 A0 Química
+29795 Matutino Sarah Cristina Felix Dos Santos 9,00 9,00 A0 Química
+32267 Matutino Sarah Kauane Livramento Silva 7,25 7,50 L2 Eletrotécnica
+30951 Matutino Sarah Moura Dos Santos 8,85 8,60 A0 Química
+33907 Matutino Sarah Regina Oliveira Sales 7,45 8,00 A0 Edificações
+33035 Matutino Sarah Vitória Dos Anjos Bessa 8,05 7,80 L5 Edificações
+29900 Matutino Saulo Pepese Paixão Da Silva 6,95 6,50 A0 Estradas
+29989 Matutino Saymon Bento Santos Silva 7,10 7,60 L2 Desenv. Sistemas
+33351 Matutino Selina Leandro Gama Neto 8,45 8,30 A0 Química
+32669 Matutino Selso Bezerra Nobre 7,15 7,00 A0 Eletrotécnica
+31972 Matutino Shayara Jennefer Ferreira Da Silva 6,55 6,50 A0 Desenv. Sistemas
+34941 Matutino Shayara Vitória Pereira De Lima 7,60 7,60 A0 Desenv. Sistemas
+32855 Matutino Shirly Lima Da Silva 5,50 6,00 L2 Química
+34248 Matutino Sofia Andrade Martins 8,45 8,80 A0 Estradas
+34413 Matutino Sofia Cavalcante De Lima 9,05 9,10 A0 Química
+30743 Vespertino Sofia De Holanda Cavalcante Silva 6,60 6,80 A0 Edificações
+32007 Matutino Sofia Hora Marinho 8,20 8,40 A0 Desenv. Sistemas
+31487 Vespertino Sofia Laura Ramos Malaquias 9,60 9,70 L5 Desenv. Sistemas
+34469 Matutino Sofia Vitória Ferreira Da Rocha Silva 8,40 8,80 A0 Química
+31326 Vespertino Sophia Goulart Tavares 7,50 8,00 A0 Edificações
+31824 Matutino Sophia Lacerda Buarque Magalhães Silva 9,10 9,30 A0 Desenv. Sistemas
+30329 Matutino Sophya Ellen Araujo De Lima 8,30 8,50 A0 Desenv. Sistemas
+32835 Matutino Steffany Ezequiel Dos Santos 8,90 8,50 L2 Química
+33454 Vespertino Stenio Marcos Sampaio De Oliveira Junior 7,00 6,20 L1 Desenv. Sistemas
+34005 Vespertino Stephany Natalia Berto De Amorim 7,85 7,90 A0 Eletrotécnica
+33719 Vespertino Sthephany Alves Barbosa 8,35 8,30 L2 Edificações
+34038 Vespertino Suenny Monick Omena Da Silva 6,90 7,20 L1 Química
+30847 Vespertino Synara Suene Da Silva Velozo 8,05 8,00 A0 Edificações
+30407 Matutino Taciany Maria Santos De Almeida 7,70 7,60 L2 Desenv. Sistemas
+31160 Matutino Tainá Cavalcante Dos Santos 8,45 8,80 L2 Estradas
+31992 Matutino Tainá Costa Lins 7,55 7,30 A0 Química
+30112 Matutino Talyslan Cauan Pimentel Canabarro 9,90 9,80 A0 Desenv. Sistemas
+30266 Vespertino Tatielle Vitória De Almeida Dos Santos 7,70 7,60 A0 Edificações
+33895 Vespertino Tauany Samara Santos De Barros 7,15 7,20 A0 Química
+30217 Matutino Tayllo Jonathas Monteiro Mendes 8,30 8,60 A0 Estradas
+30405 Matutino Thales Barbosa De Melo Silva 9,10 8,90 A0 Desenv. Sistemas
+32582 Matutino Thales Kauã Terto Silva 7,55 7,50 A0 Estradas
+34699 Matutino Thales William Dos Santos Lima 6,35 6,40 L2 Química
+29808 Vespertino Thalisson Luan Da Silva De Lima 7,40 7,00 A0 Eletrotécnica
+30027 Matutino Thalita Da Conceição Santos Moura 7,80 8,00 L2 Eletrônica
+30183 Matutino Thalita Pereira Silva 7,25 7,00 L1 Edificações
+30299 Matutino Thâmara Clívia Silva Amaral 8,50 8,40 L2 Desenv. Sistemas
+32079 Matutino Thanielly De Oliveira Cirino Mota 8,05 8,50 A0 Desenv. Sistemas
+30396 Matutino Thatyany Dos Santos Machado 7,85 7,60 L2 Desenv. Sistemas
+32843 Vespertino Thavico César Vieira Almeida 8,00 8,00 A0 Edificações
+30014 Matutino Thawany Victoria Da Conceição Santos Mour 6,60 6,50 L2 Estradas
+29823 Vespertino Thayane Gabrielle Da Silva Correia 8,00 7,50 A0 Edificações
+33558 Matutino Thayná Manoela Alves Costa Barros 9,55 9,70 A0 Edificações
+29852 Matutino Thayna Teixeira De Franca Silva 8,90 8,90 A0 Estradas
+33192 Matutino Thays Honorato Da Silva 7,35 7,60 A0 Estradas
+29715 Vespertino Thayslanny Santos 9,65 9,50 A0 Química
+31075 Matutino Thiago De Assis Soares 8,65 9,40 L5 Edificações
+32312 Vespertino Thiago Neemias Santos Da Silva 7,90 7,80 A0 Mecânica
+30292 Matutino Thiago Vinicius Ferreira Da Cruz 6,95 7,00 A0 Estradas
+34170 Matutino Thiago Vinicius José Araújo Silva 7,50 7,60 A0 Desenv. Sistemas
+30227 Matutino Thúlio Pedro Miranda 6,55 6,80 A0 Mecânica
+30559 Matutino Tomás Ignácio Marcano Marcano 8,35 8,00 L2 Edificações
+30649 Vespertino Tony Robert Dos Santos Oliveira 7,40 6,50 L2 Mecânica
+33032 Matutino Trajano Leonardo Ribeiro Angelo 7,00 6,70 A0 Estradas
+30082 Matutino Vagner Henrique Da Silva 7,25 7,60 L6 Estradas
+30463 Matutino Valdir Da Silva Borges Júnior 8,35 8,60 A0 Desenv. Sistemas
+30333 Vespertino Valéria Maria Oliveira Araújo 9,10 9,50 A0 Mecânica
+32035 Matutino Valquiria Káila Justo De Medeiros 7,45 7,50 A0 Química
+31736 Matutino Vanessa Soares Dos Santos Martins 7,55 8,00 L2 Química
+31583 Vespertino Venicio Benigno Da Silva 7,05 7,20 L2 Edificações
+33782 Matutino Verônica Emanuely Alves Cardoso 8,65 9,00 A0 Química
+34992 Matutino Vicente Antônio Lins Dos Santos 6,80 6,80 L6 Edificações
+31236 Matutino Vicerlany Victória De Oliveira Santos 7,90 7,50 A0 Química
+31977 Matutino Victor De Alessandrine Mendonça Lopes 6,70 6,90 L1 Eletrônica
+33734 Vespertino Victor De Carvalho Araujo 6,20 6,30 A0 Mecânica
+33882 Matutino Victor Gabriel Da Silva 7,65 7,60 A0 Mecânica
+34345 Matutino Victor Gabriel De Jesus Oliveira 8,10 7,80 A0 Eletrônica
+33194 Matutino Victor Levi De Lira Saraiva 8,70 8,80 A0 Mecânica
+33767 Matutino Victor Lucas Silva De Souza 8,90 9,00 A0 Desenv. Sistemas
+30508 Matutino Victor Rodrigues Felix Dos Santos 7,45 7,60 A0 Química
+34086 Matutino Victor Tenório Sena 9,80 9,60 A0 Desenv. Sistemas
+34473 Vespertino Victoria Antonella De Oliveira Costa 9,40 9,30 A0 Desenv. Sistemas
+30379 Vespertino Victória Beatriz Oliveira De Lima 8,10 8,10 A0 Edificações
+30176 Matutino Victória Camilly Ribeiro Ferro 7,50 8,00 A0 Química
+30876 Matutino Vinícius Gabriel De Almeida Pereira 6,20 6,30 L2 Desenv. Sistemas
+31698 Matutino Vinicius Gomes De Menezes Nascimento 8,05 7,60 A0 Desenv. Sistemas
+30591 Matutino Vinicius Henrique Assunção Silva 8,75 9,00 A0 Desenv. Sistemas
+32699 Matutino Vinícius Lucas Da Silva Moura 6,30 6,30 L2 Eletrônica
+33178 Vespertino Vinícius Nunes Barros 7,80 8,00 A0 Desenv. Sistemas
+32580 Matutino Vinicius Rafael Lamenha Felix 8,45 8,30 A0 Mecânica
+30062 Matutino Vinícius Rocha Bernardes Monteiro 8,05 7,60 A0 Química
+34567 Matutino Vinícius Sandes Melo 8,65 8,30 A0 Eletrônica
+30051 Matutino Vinicius Santo Da Silva 8,10 7,70 L2 Desenv. Sistemas
+35002 Matutino Vinícius Vagner Silva Dos Santos 7,65 7,30 A0 Mecânica
+30797 Vespertino Vinícius Wendell Vieira Da Silva 8,15 8,50 A0 Edificações
+31203 Matutino Virginia Lopes Do Nascimento 7,95 8,10 A0 Edificações
+31493 Matutino Vitor Carvalho De Melo Saraçol 6,90 7,50 A0 Mecânica
+34180 Matutino Vitor De Morais Oliveira Mello 9,10 8,90 A0 Estradas
+31226 Matutino Vitória Alves Carnaúba 7,55 7,50 A0 Química
+30943 Vespertino Vitória Beatriz Honório De Souza 7,85 8,40 A0 Desenv. Sistemas
+33656 Vespertino Vitória De Jesus Silva Lins 8,85 9,10 A0 Estradas
+30582 Matutino Vitória Gonçalves Da Luz Santos 8,20 8,10 A0 Edificações
+34428 Vespertino Vitória Mell Lourenço De Jesus 7,05 7,20 A0 Edificações
+33295 Matutino Vitoria Natalia Silva 8,60 9,10 A0 Estradas
+33875 Matutino Vitória Priscila Dos Santos Vieira 8,75 8,90 L1 Desenv. Sistemas
+34804 Matutino Vitória Tavares Da Silva 8,75 8,70 A0 Desenv. Sistemas
+32909 Vespertino Viviane Silva Dos Santos 6,20 6,30 L6 Química
+33897 Vespertino Wagner Michel Da Silva Aviz 7,55 7,10 A0 Estradas
+33135 Matutino Waleska Karina Grigorio Dos Santos 8,60 9,30 L6 Edificações
+33854 Matutino Walleska Janaína De Araújo Marques 8,85 8,60 A0 Química
+31748 Matutino Wanessa Da Rocha Barros 7,10 7,20 L2 Edificações
+33059 Vespertino Welita Mariane Lima Da Silva 7,50 7,60 L1 Edificações
+32925 Matutino Wellcri Daniel Eugênio Tenório Dos Santos. 7,75 7,50 A0 Eletrônica
+34577 Vespertino Welton Simão Da Paz 7,65 7,80 L6 Edificações
+31085 Vespertino Wendell Gabriel Ferreira Dos Santos 8,20 8,30 A0 Edificações
+31840 Matutino Werigleissia Guimarães Rodrigues 7,25 7,20 A0 Química
+31298 Vespertino Weskley Danyllo Silva De Araújo 8,65 8,70 A0 Química
+34341 Matutino Weslanne Maria Pereira Da Silva 7,85 8,30 L1 Edificações
+31389 Matutino Wesley Deleon Dos Santos Lima 7,95 8,40 A0 Desenv. Sistemas
+33768 Vespertino Wesley Samuel Andrade Do Nascimento 7,50 7,40 A0 Edificações
+33204 Vespertino Wesley Victor Marques Do Socorro 7,55 7,70 L2 Desenv. Sistemas
+34798 Vespertino Weslley Alberto Souza Dos Santos 8,00 7,50 L2 Edificações
+32846 Matutino Weslley Da Costa Marques 7,45 7,80 L2 Desenv. Sistemas
+31842 Matutino Weslley Juliano Santos Cavalcante 8,05 8,60 A0 Eletrotécnica
+34763 Matutino Weslly Leandro Bezerra Da Silva 6,90 7,50 L2 Mecânica
+32626 Matutino William Dos Santos 6,00 6,00 A0 Eletrônica
+32687 Vespertino Willian David Cardoso Da Silva 6,55 6,50 L2 Eletrônica
+30030 Matutino Williany Maria Da Silva Santos 7,00 7,50 L2 Química
+33667 Matutino Willyane Ketlly Da Silva Santos 8,20 8,80 A0 Química
+31609 Matutino Windyslaynne Emily Rocha Da Silva Araujo 7,60 7,60 A0 Mecânica
+34214 Matutino Wysnauã Santos Ribeiro De Melo 7,50 7,60 A0 Eletrotécnica
+31106 Matutino Wytalo Mikael Reis Dos Santos 8,30 8,40 L2 Desenv. Sistemas
+35140 Vespertino Yan Mike Soares Batista 7,05 6,80 A0 Eletrônica
+31010 Matutino Yara Letícia Oliveira Nascimento 8,80 8,40 A0 Eletrônica
+33498 Matutino Yarllei Humberto Tenório Da Paz Santos 8,05 8,70 L6 Desenv. Sistemas
+32717 Matutino Yasmim Alessandra Da Silva Romao 9,05 8,90 L2 Desenv. Sistemas
+31143 Vespertino Yasmim Almeida Da Silva 6,90 6,80 A0 Química
+33173 Matutino Yasmim Vitória Araújo Alves Da Rocha 9,15 9,10 A0 Química
+32525 Vespertino Yasmin Costa Bispo 8,15 7,70 L2 Química
+33835 Matutino Yasmin Emilly Da Silva 7,30 7,70 A0 Química
+32166 Vespertino Yasmin Ferreira Dos Santos 6,60 6,30 A0 Química
+29843 Matutino Yasmin Jeovana Souza De Melo 7,95 7,50 A0 Mecânica
+34668 Vespertino Yasmin Maria Silva Pereira 8,40 8,60 A0 Edificações
+30796 Matutino Yasmin Vitória Da Silva De Oliveira 8,05 8,20 L2 Eletrônica
+33052 Matutino Yasmin Vitória Da Silva Soares 6,80 6,50 A0 Estradas
+29832 Matutino Yasmmin Hellen Pereira De Oliveira 7,70 7,70 A0 Eletrônica
+34748 Matutino Ygor Vasconcelos Maia 7,55 7,40 A0 Desenv. Sistemas
+30160 Matutino Yhasmin Duarte Da Silva 7,10 7,70 A0 Eletrotécnica
+33263 Vespertino Ykaru Henrique Lopes Dos Santos 7,55 7,50 L2 Eletrotécnica
+32801 Vespertino Yngrid Samilly Paixão Dos Santos 8,45 8,60 L6 Desenv. Sistemas
+30967 Matutino Yolanda De Carvalho Lima 7,75 8,00 A0 Desenv. Sistemas
+29818 Matutino Yslane Adrielle Souza Silva 8,40 8,50 A0 Química
+30403 Vespertino Ytalo Davi Dos Santos Lima 8,15 7,80 L2 Edificações
+32473 Vespertino Yuri Jhames Lopes Canuto 7,10 7,10 A0 Eletrotécnica
+33098 Vespertino Yuri Lamenha Trindade 8,05 8,30 A0 Desenv. Sistemas
+30514 Vespertino Yuri Silva De Lima 7,55 7,50 L2 Edificações
